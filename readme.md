@@ -23,3 +23,5 @@ Django 官方 tutorial，在这个说明下，通过 django 的 admin 工具，�
 > 参考1 [vscode for django](https://code.visualstudio.com/docs/python/tutorial-django)
 
 ### 1.4 [Django tutorial02](https://docs.djangoproject.com/en/3.1/intro/tutorial02/)
+
+Django 官方 tutorial02，紧跟着 tutorial01 的步骤。尝试使用数据库。
