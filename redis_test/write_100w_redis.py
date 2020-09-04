@@ -8,32 +8,26 @@
 
 # DESCRIPTION:
 
-向 Redis 写入 100w 个数据
+向 Redis 写入 100w 个数据。分两个实验：
+1. 普通写入100w个 KV 值
+2. 利用 hash 对 100w 个值进行分级处理
+3. 调整参数，让 hash 数据结构始终处于 ziplist
 
 '''
 
 import redis
 import datetime
 
-client = redis.StrictRedis(host="redis.qpm.com", port=16379, db=0)
+client = redis.StrictRedis(host="redis.qpm.com", port=6379, db=0)
 
 
-def writekvdemo():
-    client.set("key:demo", "value:demo")
-    result = client.get("key:demo")
-    print(result)
-
-
-def write5wkv():
-    print("begin write 100w")
-    before = getRedisUsedMemory()
-    for k in range(0, 50000):
-        client.set(k, 'v' + str(k))
-    after = getRedisUsedMemory()
-    print("end write 100w, using: " + str(after - before))
-
-
-def write5wkv_with_pipline():
+def write100wkv_with_pipline():
+    '''
+    begin write 100w
+    used_memory_human:844.65K
+    used_memory_human:69.85M
+    end write 100w, using: 72380608
+    '''
     print("begin write 100w")
     pip = client.pipeline(transaction=False)
 
@@ -44,6 +38,22 @@ def write5wkv_with_pipline():
     after = getRedisUsedMemory()
     print("end write 100w, using: " + str(after - before))
 
+def write100wkv_with_pipline_hash():
+    '''
+    begin write 100w in hashway
+    used_memory_human:865.74K
+    used_memory_human:53.82M
+    end write 100w, using: 55544192
+    '''
+    print("begin write 100w in hashway")
+    pip = client.pipeline(transaction=False)
+
+    before = getRedisUsedMemory()
+    for k in range(0, 1000000):
+        pip.hset(int(k/1000), k % 1000, 'v' + str(k))
+    pip.execute()
+    after = getRedisUsedMemory()
+    print("end write 100w, using: " + str(after - before))
 
 def getRedisUsedMemory():
     info = client.info('memory')
@@ -54,5 +64,5 @@ def getRedisUsedMemory():
 if __name__ == "__main__":
     # writekvdemo()
     # write5wkv()
-    write5wkv_with_pipline()
+    write100wkv_with_pipline_hash()
     # getRedisUsedMemory()
