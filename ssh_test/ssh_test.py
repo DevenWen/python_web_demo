@@ -52,10 +52,16 @@ if __name__ == "__main__":
     username = "root"
     password = ""
 
-    command = 'ls'
+    command = 'tree compose_software'
 
     my_ssh_client = MySSHClient()
     if my_ssh_client.ssh_login(host_ip, username, password) == 1000:
         log.warning(f"{host_ip} - login success, will execute command: {command}")
+        my_ssh_client.execute_some_command(command)
+        my_ssh_client.ssh_logout()
+
+    # 获取目录中，所有配置文件中包含 mysql 的行
+    command = 'find . -name "*.yml" -exec cat {} \; | grep mysql'
+    if my_ssh_client.ssh_login(host_ip, username, password) == 1000:
         my_ssh_client.execute_some_command(command)
         my_ssh_client.ssh_logout()
