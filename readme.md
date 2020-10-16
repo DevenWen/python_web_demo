@@ -40,4 +40,9 @@ Django 官方 tutorial02，紧跟着 tutorial01 的步骤。尝试使用数据�
 2020-09-17 在公司饱受线上查询日志的痛苦，考虑是否有一个 python 脚本，可以自动拉取所有我需要的日志？
 
 ### 3.1 install paramiko
+
 一个 ssh 工具
+
+### 3.2 pip3 install colorama
+
+输出颜色控制模块 [colorama](https://www.cnblogs.com/xieshengsen/p/6932233.html)
