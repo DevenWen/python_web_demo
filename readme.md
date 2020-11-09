@@ -11,6 +11,8 @@
 ```shell
 // 指定 阿里云数据安装 Django，速度更快
 pip3 install Django -i https://mirrors.aliyun.com/pypi/simpleo
+// 或者使用清华的源
+-i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 ### 1.2 验证安装
