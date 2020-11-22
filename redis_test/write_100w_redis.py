@@ -18,7 +18,7 @@
 import redis
 import datetime
 
-client = redis.StrictRedis(host="redis.qpm.com", port=6379, db=0)
+client = redis.StrictRedis(host="redis.qpm.com", port=16379, db=0)
 
 
 def write100wkv_with_pipline():
@@ -38,6 +38,7 @@ def write100wkv_with_pipline():
     after = getRedisUsedMemory()
     print("end write 100w, using: " + str(after - before))
 
+
 def write100wkv_with_pipline_hash():
     '''
     begin write 100w in hashway
@@ -49,11 +50,12 @@ def write100wkv_with_pipline_hash():
     pip = client.pipeline(transaction=False)
 
     before = getRedisUsedMemory()
-    for k in range(0, 1000000):
+    for k in range(1000000, 2000000):
         pip.hset(int(k/1000), k % 1000, 'v' + str(k))
     pip.execute()
     after = getRedisUsedMemory()
     print("end write 100w, using: " + str(after - before))
+
 
 def getRedisUsedMemory():
     info = client.info('memory')

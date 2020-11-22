@@ -63,7 +63,7 @@ if __name__ == "__main__":
         my_ssh_client.ssh_logout()
 
     # 获取目录中，所有配置文件中包含 mysql 的行
-    command = 'find . -name "*.yml" -exec cat {} \; | grep mysql'
+    command = 'find . -name "*.yml" -exec cat {} \; | grep -A10 -B10 mysql'
     if my_ssh_client.ssh_login(host_ip, username, password) == 1000:
         my_ssh_client.execute_some_command(command)
         my_ssh_client.ssh_logout()
