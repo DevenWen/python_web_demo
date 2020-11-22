@@ -1,0 +1,2794 @@
+PING_INLINE: nanPING_INLINE: 5744.00PING_INLINE: 6198.00PING_INLINE: 6822.90PING_INLINE: 6071.93PING_INLINE: 6013.59PING_INLINE: 6004.00PING_INLINE: 6268.42PING_INLINE: 6053.30PING_INLINE: 6013.50PING_INLINE: 5981.54PING_INLINE: 6146.89PING_INLINE: 6016.38PING_INLINE: 5970.63PING_INLINE: 5772.15PING_INLINE: 5723.26PING_INLINE: 5845.38PING_INLINE: 5844.64PING_INLINE: 5942.71PING_INLINE: 6105.49PING_INLINE: 6239.87PING_INLINE: 6352.18PING_INLINE: 6451.68PING_INLINE: 6513.08PING_INLINE: 6569.80PING_INLINE: 6676.28PING_INLINE: 6757.05PING_INLINE: 6740.90PING_INLINE: 6711.56PING_INLINE: 6714.73PING_INLINE: 6623.18PING_INLINE: 6610.67PING_INLINE: 6547.79PING_INLINE: 6548.27PING_INLINE: 6538.58PING_INLINE: 6548.42PING_INLINE: 6571.90PING_INLINE: 6606.89PING_INLINE: 6600.96PING_INLINE: 6614.59PING_INLINE: 6655.68PING_INLINE: 6646.67PING_INLINE: 6683.41PING_INLINE: 6670.52PING_INLINE: 6684.76PING_INLINE: 6691.81PING_INLINE: 6646.47PING_INLINE: 6635.34PING_INLINE: 6631.99PING_INLINE: 6650.73PING_INLINE: 6647.90PING_INLINE: 6672.15PING_INLINE: 6620.29PING_INLINE: 6627.29PING_INLINE: 6580.26PING_INLINE: 6613.45PING_INLINE: 6579.14PING_INLINE: 6566.59PING_INLINE: 6564.63PING_INLINE: 6556.89PING_INLINE: 6510.81PING_INLINE: 6493.80====== PING_INLINE ======
+  100000 requests completed in 15.40 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 1 milliseconds
+0.01% <= 2 milliseconds
+1.10% <= 3 milliseconds
+15.63% <= 4 milliseconds
+42.33% <= 5 milliseconds
+58.17% <= 6 milliseconds
+67.97% <= 7 milliseconds
+74.69% <= 8 milliseconds
+79.51% <= 9 milliseconds
+83.17% <= 10 milliseconds
+86.19% <= 11 milliseconds
+88.64% <= 12 milliseconds
+90.57% <= 13 milliseconds
+92.27% <= 14 milliseconds
+93.35% <= 15 milliseconds
+94.08% <= 16 milliseconds
+94.69% <= 17 milliseconds
+95.25% <= 18 milliseconds
+95.81% <= 19 milliseconds
+96.21% <= 20 milliseconds
+96.57% <= 21 milliseconds
+96.77% <= 22 milliseconds
+97.00% <= 23 milliseconds
+97.32% <= 24 milliseconds
+97.56% <= 25 milliseconds
+97.76% <= 26 milliseconds
+97.91% <= 27 milliseconds
+98.09% <= 28 milliseconds
+98.33% <= 29 milliseconds
+98.43% <= 30 milliseconds
+98.55% <= 31 milliseconds
+98.63% <= 32 milliseconds
+98.78% <= 33 milliseconds
+98.87% <= 34 milliseconds
+98.94% <= 35 milliseconds
+99.03% <= 36 milliseconds
+99.07% <= 37 milliseconds
+99.14% <= 38 milliseconds
+99.22% <= 39 milliseconds
+99.24% <= 40 milliseconds
+99.27% <= 41 milliseconds
+99.33% <= 42 milliseconds
+99.34% <= 43 milliseconds
+99.34% <= 44 milliseconds
+99.36% <= 45 milliseconds
+99.37% <= 46 milliseconds
+99.39% <= 47 milliseconds
+99.40% <= 48 milliseconds
+99.44% <= 49 milliseconds
+99.47% <= 50 milliseconds
+99.51% <= 51 milliseconds
+99.53% <= 52 milliseconds
+99.55% <= 53 milliseconds
+99.59% <= 54 milliseconds
+99.61% <= 55 milliseconds
+99.61% <= 56 milliseconds
+99.62% <= 57 milliseconds
+99.63% <= 58 milliseconds
+99.63% <= 59 milliseconds
+99.63% <= 60 milliseconds
+99.64% <= 61 milliseconds
+99.67% <= 62 milliseconds
+99.70% <= 63 milliseconds
+99.73% <= 64 milliseconds
+99.73% <= 65 milliseconds
+99.74% <= 66 milliseconds
+99.75% <= 67 milliseconds
+99.77% <= 68 milliseconds
+99.79% <= 69 milliseconds
+99.79% <= 70 milliseconds
+99.80% <= 71 milliseconds
+99.81% <= 72 milliseconds
+99.82% <= 73 milliseconds
+99.86% <= 74 milliseconds
+99.87% <= 75 milliseconds
+99.88% <= 76 milliseconds
+99.89% <= 77 milliseconds
+99.90% <= 78 milliseconds
+99.90% <= 80 milliseconds
+99.91% <= 81 milliseconds
+99.91% <= 82 milliseconds
+99.92% <= 83 milliseconds
+99.92% <= 84 milliseconds
+99.92% <= 87 milliseconds
+99.93% <= 88 milliseconds
+99.93% <= 89 milliseconds
+99.93% <= 90 milliseconds
+99.93% <= 103 milliseconds
+99.94% <= 104 milliseconds
+99.95% <= 105 milliseconds
+99.95% <= 106 milliseconds
+99.96% <= 107 milliseconds
+99.96% <= 108 milliseconds
+99.97% <= 114 milliseconds
+99.97% <= 115 milliseconds
+99.99% <= 116 milliseconds
+99.99% <= 142 milliseconds
+99.99% <= 226 milliseconds
+100.00% <= 227 milliseconds
+100.00% <= 227 milliseconds
+6491.40 requests per second
+
+PING_BULK: 6748.20PING_BULK: 7092.54PING_BULK: 7021.91PING_BULK: 7132.73PING_BULK: 7217.54PING_BULK: 7081.96PING_BULK: 6957.95PING_BULK: 6957.17PING_BULK: 6906.59PING_BULK: 6848.24PING_BULK: 6866.01PING_BULK: 6808.09PING_BULK: 6664.54PING_BULK: 6632.96PING_BULK: 6634.54PING_BULK: 6607.40PING_BULK: 6615.89PING_BULK: 6657.56PING_BULK: 6544.69PING_BULK: 6473.74PING_BULK: 6369.17PING_BULK: 6455.79PING_BULK: 6407.01PING_BULK: 6380.21PING_BULK: 6441.16PING_BULK: 6368.63PING_BULK: 6267.89PING_BULK: 6238.01PING_BULK: 6175.03PING_BULK: 6221.50PING_BULK: 6256.21PING_BULK: 6304.15PING_BULK: 6330.02PING_BULK: 6312.79PING_BULK: 6366.57PING_BULK: 6374.92PING_BULK: 6408.32PING_BULK: 6450.04PING_BULK: 6444.61PING_BULK: 6471.44PING_BULK: 6512.40PING_BULK: 6552.08PING_BULK: 6606.02PING_BULK: 6601.26PING_BULK: 6623.90PING_BULK: 6630.48PING_BULK: 6649.58PING_BULK: 6658.52PING_BULK: 6654.72PING_BULK: 6679.07PING_BULK: 6700.57PING_BULK: 6744.46PING_BULK: 6793.15PING_BULK: 6825.48PING_BULK: 6860.58PING_BULK: 6889.10PING_BULK: 6929.54====== PING_BULK ======
+  100000 requests completed in 14.38 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 1 milliseconds
+0.01% <= 2 milliseconds
+0.98% <= 3 milliseconds
+13.90% <= 4 milliseconds
+39.31% <= 5 milliseconds
+56.97% <= 6 milliseconds
+68.64% <= 7 milliseconds
+76.23% <= 8 milliseconds
+81.48% <= 9 milliseconds
+85.84% <= 10 milliseconds
+89.26% <= 11 milliseconds
+91.70% <= 12 milliseconds
+93.48% <= 13 milliseconds
+94.72% <= 14 milliseconds
+95.66% <= 15 milliseconds
+96.22% <= 16 milliseconds
+96.72% <= 17 milliseconds
+97.02% <= 18 milliseconds
+97.24% <= 19 milliseconds
+97.44% <= 20 milliseconds
+97.67% <= 21 milliseconds
+97.84% <= 22 milliseconds
+97.99% <= 23 milliseconds
+98.22% <= 24 milliseconds
+98.50% <= 25 milliseconds
+98.71% <= 26 milliseconds
+98.82% <= 27 milliseconds
+98.92% <= 28 milliseconds
+99.02% <= 29 milliseconds
+99.12% <= 30 milliseconds
+99.18% <= 31 milliseconds
+99.24% <= 32 milliseconds
+99.32% <= 33 milliseconds
+99.37% <= 34 milliseconds
+99.43% <= 35 milliseconds
+99.47% <= 36 milliseconds
+99.50% <= 37 milliseconds
+99.52% <= 38 milliseconds
+99.55% <= 39 milliseconds
+99.57% <= 40 milliseconds
+99.57% <= 41 milliseconds
+99.57% <= 43 milliseconds
+99.58% <= 44 milliseconds
+99.58% <= 46 milliseconds
+99.59% <= 47 milliseconds
+99.63% <= 48 milliseconds
+99.67% <= 49 milliseconds
+99.71% <= 50 milliseconds
+99.74% <= 51 milliseconds
+99.75% <= 52 milliseconds
+99.77% <= 53 milliseconds
+99.79% <= 54 milliseconds
+99.81% <= 55 milliseconds
+99.82% <= 56 milliseconds
+99.85% <= 57 milliseconds
+99.86% <= 58 milliseconds
+99.91% <= 59 milliseconds
+99.92% <= 60 milliseconds
+99.93% <= 61 milliseconds
+99.96% <= 62 milliseconds
+99.97% <= 63 milliseconds
+99.98% <= 64 milliseconds
+99.98% <= 65 milliseconds
+100.00% <= 66 milliseconds
+100.00% <= 81 milliseconds
+100.00% <= 81 milliseconds
+6952.17 requests per second
+
+SET: nanSET: 7848.00SET: 8241.04SET: 7869.85SET: 7451.74SET: 6656.57SET: 6624.58SET: 6764.67SET: 7015.96SET: 7078.46SET: 7304.35SET: 7449.76SET: 7573.00SET: 7585.51SET: 7584.83SET: 7638.81SET: 7673.57SET: 7757.11SET: 7794.54SET: 7837.15SET: 7858.48SET: 7862.55SET: 7895.83SET: 7874.33SET: 7849.28SET: 7848.75SET: 7865.50SET: 7879.94SET: 7918.45SET: 7918.38SET: 7934.40SET: 7923.77SET: 7898.83SET: 7925.36SET: 7904.42SET: 7921.97SET: 7927.13SET: 7920.68SET: 7930.54SET: 7898.32SET: 7899.66SET: 7922.78SET: 7937.64SET: 7961.93SET: 7938.40SET: 7926.99SET: 7938.90SET: 7901.89SET: 7843.01SET: 7792.85SET: 7795.39SET: 7805.34====== SET ======
+  100000 requests completed in 12.86 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 1 milliseconds
+0.00% <= 2 milliseconds
+0.71% <= 3 milliseconds
+15.14% <= 4 milliseconds
+45.93% <= 5 milliseconds
+66.35% <= 6 milliseconds
+79.02% <= 7 milliseconds
+85.86% <= 8 milliseconds
+89.50% <= 9 milliseconds
+91.71% <= 10 milliseconds
+93.56% <= 11 milliseconds
+95.03% <= 12 milliseconds
+96.27% <= 13 milliseconds
+97.25% <= 14 milliseconds
+97.70% <= 15 milliseconds
+97.97% <= 16 milliseconds
+98.04% <= 17 milliseconds
+98.15% <= 18 milliseconds
+98.22% <= 19 milliseconds
+98.28% <= 20 milliseconds
+98.31% <= 21 milliseconds
+98.39% <= 22 milliseconds
+98.46% <= 23 milliseconds
+98.57% <= 24 milliseconds
+98.83% <= 25 milliseconds
+98.97% <= 26 milliseconds
+99.06% <= 27 milliseconds
+99.17% <= 28 milliseconds
+99.21% <= 29 milliseconds
+99.26% <= 30 milliseconds
+99.31% <= 31 milliseconds
+99.36% <= 32 milliseconds
+99.40% <= 33 milliseconds
+99.44% <= 34 milliseconds
+99.51% <= 35 milliseconds
+99.60% <= 36 milliseconds
+99.67% <= 37 milliseconds
+99.70% <= 38 milliseconds
+99.75% <= 39 milliseconds
+99.79% <= 45 milliseconds
+99.80% <= 47 milliseconds
+99.81% <= 48 milliseconds
+99.82% <= 49 milliseconds
+99.83% <= 50 milliseconds
+99.84% <= 51 milliseconds
+99.87% <= 52 milliseconds
+99.87% <= 54 milliseconds
+99.88% <= 55 milliseconds
+99.88% <= 56 milliseconds
+99.89% <= 57 milliseconds
+99.91% <= 58 milliseconds
+99.92% <= 59 milliseconds
+99.92% <= 60 milliseconds
+99.93% <= 63 milliseconds
+99.93% <= 64 milliseconds
+99.95% <= 150 milliseconds
+99.96% <= 151 milliseconds
+99.96% <= 170 milliseconds
+99.96% <= 183 milliseconds
+99.97% <= 184 milliseconds
+99.97% <= 185 milliseconds
+99.98% <= 186 milliseconds
+99.99% <= 187 milliseconds
+99.99% <= 188 milliseconds
+100.00% <= 188 milliseconds
+7774.24 requests per second
+
+GET: 5225.81GET: 6798.83GET: 7401.35GET: 7365.36GET: 7282.71GET: 7357.41GET: 7480.23GET: 7583.83GET: 7462.02GET: 7612.46GET: 7723.10GET: 7820.67GET: 7812.28GET: 7670.85GET: 7651.74GET: 7495.19GET: 7469.24GET: 7540.27GET: 7521.54GET: 7509.08GET: 7335.62GET: 6987.48GET: 6848.50GET: 6561.11GET: 6401.87GET: 6198.40GET: 6150.20GET: 6029.44GET: 5903.68GET: 5792.86GET: 5771.83GET: 5700.42GET: 5633.30GET: 5621.81GET: 5547.94GET: 5537.56GET: 5474.97GET: 5463.24GET: 5398.80GET: 5327.33GET: 5235.90GET: 5235.13GET: 5116.33GET: 5152.31GET: 5049.27GET: 5098.48GET: 4996.22GET: 4968.06GET: 4895.83GET: 4849.69GET: 4841.37GET: 4859.54GET: 4821.99GET: 4799.73GET: 4803.25GET: 4867.17GET: 4842.35GET: 4841.48GET: 4840.71GET: 4873.56GET: 4864.20GET: 4898.83GET: 4954.18GET: 4986.24GET: 4988.56GET: 4999.09GET: 5018.47GET: 5077.71GET: 5116.76GET: 5132.48GET: 5152.44GET: 5172.80GET: 5179.39GET: 5192.04GET: 5211.43GET: 5258.89====== GET ======
+  100000 requests completed in 18.98 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 1 milliseconds
+0.01% <= 2 milliseconds
+1.20% <= 3 milliseconds
+15.34% <= 4 milliseconds
+43.38% <= 5 milliseconds
+61.20% <= 6 milliseconds
+72.18% <= 7 milliseconds
+79.47% <= 8 milliseconds
+84.17% <= 9 milliseconds
+86.93% <= 10 milliseconds
+88.90% <= 11 milliseconds
+90.65% <= 12 milliseconds
+92.07% <= 13 milliseconds
+93.08% <= 14 milliseconds
+93.86% <= 15 milliseconds
+94.33% <= 16 milliseconds
+94.64% <= 17 milliseconds
+94.91% <= 18 milliseconds
+95.16% <= 19 milliseconds
+95.48% <= 20 milliseconds
+95.75% <= 21 milliseconds
+95.98% <= 22 milliseconds
+96.22% <= 23 milliseconds
+96.41% <= 24 milliseconds
+96.54% <= 25 milliseconds
+96.74% <= 26 milliseconds
+96.90% <= 27 milliseconds
+97.06% <= 28 milliseconds
+97.14% <= 29 milliseconds
+97.21% <= 30 milliseconds
+97.33% <= 31 milliseconds
+97.42% <= 32 milliseconds
+97.51% <= 33 milliseconds
+97.62% <= 34 milliseconds
+97.79% <= 35 milliseconds
+97.87% <= 36 milliseconds
+98.00% <= 37 milliseconds
+98.14% <= 38 milliseconds
+98.27% <= 39 milliseconds
+98.30% <= 40 milliseconds
+98.34% <= 41 milliseconds
+98.40% <= 42 milliseconds
+98.44% <= 43 milliseconds
+98.45% <= 44 milliseconds
+98.48% <= 45 milliseconds
+98.54% <= 46 milliseconds
+98.55% <= 49 milliseconds
+98.55% <= 50 milliseconds
+98.57% <= 51 milliseconds
+98.59% <= 52 milliseconds
+98.60% <= 53 milliseconds
+98.62% <= 54 milliseconds
+98.66% <= 55 milliseconds
+98.69% <= 56 milliseconds
+98.70% <= 57 milliseconds
+98.71% <= 58 milliseconds
+98.73% <= 59 milliseconds
+98.73% <= 60 milliseconds
+98.74% <= 61 milliseconds
+98.74% <= 62 milliseconds
+98.75% <= 63 milliseconds
+98.77% <= 64 milliseconds
+98.78% <= 65 milliseconds
+98.79% <= 66 milliseconds
+98.81% <= 67 milliseconds
+98.84% <= 68 milliseconds
+98.85% <= 69 milliseconds
+98.86% <= 71 milliseconds
+98.89% <= 72 milliseconds
+98.89% <= 74 milliseconds
+98.90% <= 75 milliseconds
+98.92% <= 79 milliseconds
+98.92% <= 80 milliseconds
+98.93% <= 81 milliseconds
+98.93% <= 82 milliseconds
+98.96% <= 83 milliseconds
+98.96% <= 84 milliseconds
+98.98% <= 85 milliseconds
+98.99% <= 87 milliseconds
+98.99% <= 89 milliseconds
+99.00% <= 90 milliseconds
+99.01% <= 91 milliseconds
+99.02% <= 92 milliseconds
+99.03% <= 93 milliseconds
+99.04% <= 94 milliseconds
+99.04% <= 95 milliseconds
+99.05% <= 97 milliseconds
+99.06% <= 98 milliseconds
+99.09% <= 99 milliseconds
+99.09% <= 102 milliseconds
+99.10% <= 103 milliseconds
+99.11% <= 104 milliseconds
+99.11% <= 105 milliseconds
+99.14% <= 108 milliseconds
+99.16% <= 109 milliseconds
+99.17% <= 111 milliseconds
+99.18% <= 112 milliseconds
+99.18% <= 115 milliseconds
+99.18% <= 119 milliseconds
+99.19% <= 121 milliseconds
+99.19% <= 220 milliseconds
+99.19% <= 223 milliseconds
+99.20% <= 224 milliseconds
+99.25% <= 225 milliseconds
+99.28% <= 226 milliseconds
+99.33% <= 227 milliseconds
+99.40% <= 228 milliseconds
+99.51% <= 229 milliseconds
+99.57% <= 230 milliseconds
+99.58% <= 231 milliseconds
+99.60% <= 232 milliseconds
+99.65% <= 235 milliseconds
+99.65% <= 236 milliseconds
+99.66% <= 237 milliseconds
+99.66% <= 239 milliseconds
+99.67% <= 240 milliseconds
+99.68% <= 242 milliseconds
+99.68% <= 248 milliseconds
+99.69% <= 249 milliseconds
+99.73% <= 250 milliseconds
+99.74% <= 256 milliseconds
+99.74% <= 257 milliseconds
+99.75% <= 259 milliseconds
+99.76% <= 260 milliseconds
+99.78% <= 264 milliseconds
+99.79% <= 265 milliseconds
+99.79% <= 267 milliseconds
+99.79% <= 292 milliseconds
+99.80% <= 293 milliseconds
+99.80% <= 304 milliseconds
+99.81% <= 305 milliseconds
+99.82% <= 308 milliseconds
+99.84% <= 309 milliseconds
+99.85% <= 311 milliseconds
+99.86% <= 312 milliseconds
+99.87% <= 333 milliseconds
+99.88% <= 334 milliseconds
+99.90% <= 337 milliseconds
+99.92% <= 338 milliseconds
+99.92% <= 345 milliseconds
+99.92% <= 357 milliseconds
+99.92% <= 360 milliseconds
+99.92% <= 410 milliseconds
+99.93% <= 413 milliseconds
+99.93% <= 414 milliseconds
+99.94% <= 415 milliseconds
+99.94% <= 416 milliseconds
+99.95% <= 417 milliseconds
+99.96% <= 418 milliseconds
+99.96% <= 419 milliseconds
+99.97% <= 420 milliseconds
+99.97% <= 524 milliseconds
+100.00% <= 525 milliseconds
+100.00% <= 525 milliseconds
+5269.54 requests per second
+
+INCR: 4642.38INCR: 4660.85INCR: 5503.84INCR: 5896.78INCR: 6312.77INCR: 6645.97INCR: 6165.35INCR: 6360.86INCR: 6427.71INCR: 6505.21INCR: 6662.52INCR: 6777.40INCR: 6893.08INCR: 6885.66INCR: 6979.74INCR: 6846.06INCR: 6830.52INCR: 6741.60INCR: 6769.66INCR: 6849.37INCR: 6880.53INCR: 6929.71INCR: 6964.46INCR: 7015.41INCR: 7014.46INCR: 7022.17INCR: 7000.00INCR: 7025.04INCR: 7020.82INCR: 6914.55INCR: 6950.90INCR: 6968.01INCR: 6971.81INCR: 6981.92INCR: 6999.08INCR: 7042.54INCR: 7045.20INCR: 7087.88INCR: 7073.49INCR: 7043.79INCR: 7036.51INCR: 7018.82INCR: 7015.10INCR: 7032.71INCR: 6969.10INCR: 6980.73INCR: 6912.89INCR: 6821.85INCR: 6796.25INCR: 6807.28INCR: 6842.58INCR: 6831.04INCR: 6855.73INCR: 6874.81INCR: 6884.78INCR: 6904.45INCR: 6933.66====== INCR ======
+  100000 requests completed in 14.39 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 2 milliseconds
+1.03% <= 3 milliseconds
+14.91% <= 4 milliseconds
+43.10% <= 5 milliseconds
+61.95% <= 6 milliseconds
+73.28% <= 7 milliseconds
+80.67% <= 8 milliseconds
+84.84% <= 9 milliseconds
+87.88% <= 10 milliseconds
+90.10% <= 11 milliseconds
+91.62% <= 12 milliseconds
+93.11% <= 13 milliseconds
+94.18% <= 14 milliseconds
+94.97% <= 15 milliseconds
+95.50% <= 16 milliseconds
+95.96% <= 17 milliseconds
+96.32% <= 18 milliseconds
+96.61% <= 19 milliseconds
+96.92% <= 20 milliseconds
+97.10% <= 21 milliseconds
+97.29% <= 22 milliseconds
+97.43% <= 23 milliseconds
+97.60% <= 24 milliseconds
+97.84% <= 25 milliseconds
+98.12% <= 26 milliseconds
+98.26% <= 27 milliseconds
+98.43% <= 28 milliseconds
+98.56% <= 29 milliseconds
+98.74% <= 30 milliseconds
+98.82% <= 31 milliseconds
+98.94% <= 32 milliseconds
+99.01% <= 33 milliseconds
+99.11% <= 34 milliseconds
+99.15% <= 35 milliseconds
+99.19% <= 36 milliseconds
+99.24% <= 37 milliseconds
+99.28% <= 38 milliseconds
+99.35% <= 39 milliseconds
+99.45% <= 40 milliseconds
+99.46% <= 41 milliseconds
+99.48% <= 42 milliseconds
+99.53% <= 43 milliseconds
+99.59% <= 44 milliseconds
+99.60% <= 45 milliseconds
+99.60% <= 46 milliseconds
+99.60% <= 48 milliseconds
+99.61% <= 49 milliseconds
+99.61% <= 52 milliseconds
+99.62% <= 53 milliseconds
+99.64% <= 54 milliseconds
+99.66% <= 55 milliseconds
+99.67% <= 56 milliseconds
+99.68% <= 57 milliseconds
+99.70% <= 58 milliseconds
+99.71% <= 59 milliseconds
+99.73% <= 60 milliseconds
+99.73% <= 62 milliseconds
+99.74% <= 63 milliseconds
+99.74% <= 66 milliseconds
+99.74% <= 67 milliseconds
+99.74% <= 68 milliseconds
+99.76% <= 69 milliseconds
+99.79% <= 70 milliseconds
+99.79% <= 71 milliseconds
+99.80% <= 73 milliseconds
+99.80% <= 74 milliseconds
+99.81% <= 76 milliseconds
+99.81% <= 79 milliseconds
+99.82% <= 80 milliseconds
+99.84% <= 81 milliseconds
+99.84% <= 82 milliseconds
+99.85% <= 86 milliseconds
+99.85% <= 87 milliseconds
+99.85% <= 88 milliseconds
+99.87% <= 89 milliseconds
+99.88% <= 90 milliseconds
+99.89% <= 91 milliseconds
+99.89% <= 101 milliseconds
+99.89% <= 103 milliseconds
+99.90% <= 104 milliseconds
+99.90% <= 105 milliseconds
+99.90% <= 106 milliseconds
+99.91% <= 108 milliseconds
+99.91% <= 111 milliseconds
+99.91% <= 112 milliseconds
+99.92% <= 113 milliseconds
+99.92% <= 126 milliseconds
+99.92% <= 137 milliseconds
+99.92% <= 140 milliseconds
+99.92% <= 141 milliseconds
+99.94% <= 142 milliseconds
+99.95% <= 145 milliseconds
+99.95% <= 148 milliseconds
+99.95% <= 149 milliseconds
+99.96% <= 150 milliseconds
+99.97% <= 157 milliseconds
+99.97% <= 160 milliseconds
+99.97% <= 161 milliseconds
+99.98% <= 165 milliseconds
+99.98% <= 167 milliseconds
+99.98% <= 168 milliseconds
+99.99% <= 172 milliseconds
+100.00% <= 175 milliseconds
+100.00% <= 175 milliseconds
+6948.30 requests per second
+
+LPUSH: nanLPUSH: 7012.00LPUSH: 7204.00LPUSH: 7566.67LPUSH: 7876.00LPUSH: 7770.40LPUSH: 7925.33LPUSH: 7929.14LPUSH: 7998.50LPUSH: 8037.78LPUSH: 8016.40LPUSH: 7988.73LPUSH: 7931.67LPUSH: 7956.00LPUSH: 7897.46LPUSH: 7890.46LPUSH: 7721.14LPUSH: 7733.54LPUSH: 7825.89LPUSH: 7738.75LPUSH: 7658.74LPUSH: 7549.66LPUSH: 7564.48LPUSH: 7550.38LPUSH: 7601.56LPUSH: 7644.18LPUSH: 7718.72LPUSH: 7788.48LPUSH: 7820.73LPUSH: 7798.57LPUSH: 7809.40LPUSH: 7780.23LPUSH: 7735.55LPUSH: 7560.24LPUSH: 7468.45LPUSH: 7387.37LPUSH: 7358.09LPUSH: 7353.28LPUSH: 7264.07LPUSH: 7181.47LPUSH: 7070.33LPUSH: 6970.47LPUSH: 6893.64LPUSH: 6823.92LPUSH: 6746.37LPUSH: 6680.16LPUSH: 6629.86LPUSH: 6630.25LPUSH: 6612.14LPUSH: 6599.58LPUSH: 6646.05LPUSH: 6655.83LPUSH: 6675.89LPUSH: 6705.59LPUSH: 6704.68LPUSH: 6725.07LPUSH: 6680.98LPUSH: 6642.23LPUSH: 6599.15LPUSH: 6527.15LPUSH: 6538.88LPUSH: 6478.65====== LPUSH ======
+  100000 requests completed in 15.41 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 1 milliseconds
+0.01% <= 2 milliseconds
+0.81% <= 3 milliseconds
+14.97% <= 4 milliseconds
+42.89% <= 5 milliseconds
+58.73% <= 6 milliseconds
+68.98% <= 7 milliseconds
+75.71% <= 8 milliseconds
+80.35% <= 9 milliseconds
+84.15% <= 10 milliseconds
+87.05% <= 11 milliseconds
+89.59% <= 12 milliseconds
+91.59% <= 13 milliseconds
+93.00% <= 14 milliseconds
+93.99% <= 15 milliseconds
+94.64% <= 16 milliseconds
+95.21% <= 17 milliseconds
+95.71% <= 18 milliseconds
+96.07% <= 19 milliseconds
+96.36% <= 20 milliseconds
+96.58% <= 21 milliseconds
+96.75% <= 22 milliseconds
+96.91% <= 23 milliseconds
+97.08% <= 24 milliseconds
+97.32% <= 25 milliseconds
+97.51% <= 26 milliseconds
+97.72% <= 27 milliseconds
+97.85% <= 28 milliseconds
+97.93% <= 29 milliseconds
+98.04% <= 30 milliseconds
+98.14% <= 31 milliseconds
+98.28% <= 32 milliseconds
+98.44% <= 33 milliseconds
+98.54% <= 34 milliseconds
+98.64% <= 35 milliseconds
+98.73% <= 36 milliseconds
+98.77% <= 37 milliseconds
+98.80% <= 38 milliseconds
+98.88% <= 39 milliseconds
+98.94% <= 40 milliseconds
+98.97% <= 41 milliseconds
+99.03% <= 42 milliseconds
+99.05% <= 43 milliseconds
+99.09% <= 44 milliseconds
+99.10% <= 45 milliseconds
+99.12% <= 46 milliseconds
+99.13% <= 47 milliseconds
+99.14% <= 48 milliseconds
+99.17% <= 49 milliseconds
+99.18% <= 50 milliseconds
+99.20% <= 51 milliseconds
+99.21% <= 52 milliseconds
+99.25% <= 53 milliseconds
+99.25% <= 54 milliseconds
+99.28% <= 55 milliseconds
+99.31% <= 56 milliseconds
+99.33% <= 57 milliseconds
+99.34% <= 58 milliseconds
+99.39% <= 59 milliseconds
+99.44% <= 60 milliseconds
+99.46% <= 61 milliseconds
+99.47% <= 62 milliseconds
+99.50% <= 63 milliseconds
+99.53% <= 64 milliseconds
+99.56% <= 65 milliseconds
+99.58% <= 66 milliseconds
+99.61% <= 67 milliseconds
+99.63% <= 68 milliseconds
+99.66% <= 69 milliseconds
+99.70% <= 70 milliseconds
+99.72% <= 71 milliseconds
+99.73% <= 72 milliseconds
+99.73% <= 73 milliseconds
+99.74% <= 74 milliseconds
+99.74% <= 76 milliseconds
+99.74% <= 78 milliseconds
+99.75% <= 81 milliseconds
+99.75% <= 82 milliseconds
+99.75% <= 83 milliseconds
+99.76% <= 84 milliseconds
+99.77% <= 85 milliseconds
+99.77% <= 86 milliseconds
+99.78% <= 87 milliseconds
+99.78% <= 88 milliseconds
+99.79% <= 89 milliseconds
+99.79% <= 90 milliseconds
+99.81% <= 91 milliseconds
+99.81% <= 92 milliseconds
+99.82% <= 93 milliseconds
+99.83% <= 94 milliseconds
+99.84% <= 95 milliseconds
+99.86% <= 96 milliseconds
+99.87% <= 97 milliseconds
+99.87% <= 99 milliseconds
+99.88% <= 101 milliseconds
+99.90% <= 102 milliseconds
+99.91% <= 103 milliseconds
+99.92% <= 104 milliseconds
+99.92% <= 105 milliseconds
+99.92% <= 106 milliseconds
+99.92% <= 113 milliseconds
+99.92% <= 114 milliseconds
+99.93% <= 116 milliseconds
+99.94% <= 117 milliseconds
+99.94% <= 120 milliseconds
+99.95% <= 124 milliseconds
+99.95% <= 126 milliseconds
+99.96% <= 127 milliseconds
+99.96% <= 131 milliseconds
+99.96% <= 146 milliseconds
+99.96% <= 155 milliseconds
+99.96% <= 156 milliseconds
+99.97% <= 158 milliseconds
+99.97% <= 159 milliseconds
+99.97% <= 161 milliseconds
+99.97% <= 162 milliseconds
+99.97% <= 167 milliseconds
+99.99% <= 168 milliseconds
+99.99% <= 169 milliseconds
+100.00% <= 176 milliseconds
+100.00% <= 177 milliseconds
+100.00% <= 181 milliseconds
+100.00% <= 199 milliseconds
+100.00% <= 221 milliseconds
+100.00% <= 257 milliseconds
+6487.19 requests per second
+
+RPUSH: 4705.88RPUSH: 7827.04RPUSH: 8367.96RPUSH: 8652.81RPUSH: 8212.55RPUSH: 8318.67RPUSH: 8271.68RPUSH: 8160.62RPUSH: 7709.38RPUSH: 7573.09RPUSH: 7617.90RPUSH: 7356.61RPUSH: 7143.23RPUSH: 6965.38RPUSH: 6899.50RPUSH: 6937.73RPUSH: 6878.19RPUSH: 6789.22RPUSH: 6838.62RPUSH: 6723.05RPUSH: 6806.07RPUSH: 6867.39RPUSH: 6877.67RPUSH: 6794.68RPUSH: 6699.42RPUSH: 6769.01RPUSH: 6846.08RPUSH: 6857.90RPUSH: 6820.97RPUSH: 6886.74RPUSH: 6936.66RPUSH: 6946.86RPUSH: 6882.41RPUSH: 6898.67RPUSH: 6927.50RPUSH: 6879.37RPUSH: 6902.03RPUSH: 6876.69RPUSH: 6896.39RPUSH: 6947.94RPUSH: 6946.46RPUSH: 6948.14RPUSH: 6981.49RPUSH: 6966.60RPUSH: 6928.20RPUSH: 6942.84RPUSH: 6961.16RPUSH: 6942.30RPUSH: 6971.79RPUSH: 6958.83RPUSH: 6954.48RPUSH: 6978.50RPUSH: 6979.07RPUSH: 6986.96RPUSH: 6954.97RPUSH: 6921.89RPUSH: 6926.05RPUSH: 6937.03====== RPUSH ======
+  100000 requests completed in 14.49 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 2 milliseconds
+0.75% <= 3 milliseconds
+14.74% <= 4 milliseconds
+42.91% <= 5 milliseconds
+60.67% <= 6 milliseconds
+71.38% <= 7 milliseconds
+78.58% <= 8 milliseconds
+83.17% <= 9 milliseconds
+86.62% <= 10 milliseconds
+89.46% <= 11 milliseconds
+91.32% <= 12 milliseconds
+92.96% <= 13 milliseconds
+94.07% <= 14 milliseconds
+94.75% <= 15 milliseconds
+95.43% <= 16 milliseconds
+95.91% <= 17 milliseconds
+96.28% <= 18 milliseconds
+96.60% <= 19 milliseconds
+96.92% <= 20 milliseconds
+97.16% <= 21 milliseconds
+97.34% <= 22 milliseconds
+97.50% <= 23 milliseconds
+97.62% <= 24 milliseconds
+97.89% <= 25 milliseconds
+98.04% <= 26 milliseconds
+98.24% <= 27 milliseconds
+98.32% <= 28 milliseconds
+98.45% <= 29 milliseconds
+98.58% <= 30 milliseconds
+98.69% <= 31 milliseconds
+98.79% <= 32 milliseconds
+98.85% <= 33 milliseconds
+98.92% <= 34 milliseconds
+99.02% <= 35 milliseconds
+99.09% <= 36 milliseconds
+99.15% <= 37 milliseconds
+99.20% <= 38 milliseconds
+99.24% <= 39 milliseconds
+99.29% <= 40 milliseconds
+99.32% <= 41 milliseconds
+99.33% <= 42 milliseconds
+99.35% <= 43 milliseconds
+99.38% <= 44 milliseconds
+99.41% <= 45 milliseconds
+99.44% <= 46 milliseconds
+99.45% <= 47 milliseconds
+99.46% <= 48 milliseconds
+99.48% <= 49 milliseconds
+99.50% <= 50 milliseconds
+99.52% <= 51 milliseconds
+99.53% <= 52 milliseconds
+99.56% <= 53 milliseconds
+99.59% <= 54 milliseconds
+99.61% <= 55 milliseconds
+99.66% <= 56 milliseconds
+99.68% <= 57 milliseconds
+99.69% <= 58 milliseconds
+99.71% <= 59 milliseconds
+99.74% <= 60 milliseconds
+99.75% <= 61 milliseconds
+99.76% <= 62 milliseconds
+99.76% <= 63 milliseconds
+99.78% <= 64 milliseconds
+99.78% <= 65 milliseconds
+99.82% <= 66 milliseconds
+99.82% <= 67 milliseconds
+99.84% <= 68 milliseconds
+99.86% <= 69 milliseconds
+99.87% <= 70 milliseconds
+99.87% <= 71 milliseconds
+99.89% <= 75 milliseconds
+99.90% <= 76 milliseconds
+99.90% <= 77 milliseconds
+99.93% <= 78 milliseconds
+99.94% <= 80 milliseconds
+99.95% <= 81 milliseconds
+99.96% <= 83 milliseconds
+99.96% <= 88 milliseconds
+99.97% <= 99 milliseconds
+100.00% <= 105 milliseconds
+100.00% <= 105 milliseconds
+6901.31 requests per second
+
+LPOP: 3578.12LPOP: 3489.03LPOP: 3591.23LPOP: 4334.15LPOP: 4915.89LPOP: 5102.27LPOP: 5045.19LPOP: 4914.93LPOP: 5304.05LPOP: 5689.92LPOP: 5835.15LPOP: 6073.33LPOP: 6146.76LPOP: 6269.47LPOP: 6329.61LPOP: 6408.68LPOP: 6537.75LPOP: 6619.86LPOP: 6769.21LPOP: 6858.59LPOP: 6904.35LPOP: 7004.69LPOP: 7017.56LPOP: 7036.70LPOP: 7087.98LPOP: 7034.90LPOP: 6920.69LPOP: 6720.43LPOP: 6746.15LPOP: 6763.67LPOP: 6806.28LPOP: 6827.27LPOP: 6907.46LPOP: 6940.48LPOP: 6966.79LPOP: 7004.30LPOP: 7049.65LPOP: 7097.39LPOP: 7115.30LPOP: 7159.02LPOP: 7166.29LPOP: 7216.93LPOP: 7234.58LPOP: 7243.65LPOP: 7254.76LPOP: 7266.78LPOP: 7271.64LPOP: 7280.35LPOP: 7282.17LPOP: 7296.64LPOP: 7313.55LPOP: 7302.20LPOP: 7308.66LPOP: 7312.09LPOP: 7321.95====== LPOP ======
+  100000 requests completed in 13.66 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 1 milliseconds
+0.00% <= 2 milliseconds
+0.78% <= 3 milliseconds
+15.08% <= 4 milliseconds
+44.06% <= 5 milliseconds
+61.72% <= 6 milliseconds
+73.63% <= 7 milliseconds
+80.79% <= 8 milliseconds
+85.34% <= 9 milliseconds
+88.55% <= 10 milliseconds
+91.37% <= 11 milliseconds
+93.25% <= 12 milliseconds
+94.87% <= 13 milliseconds
+95.96% <= 14 milliseconds
+96.78% <= 15 milliseconds
+97.32% <= 16 milliseconds
+97.63% <= 17 milliseconds
+97.89% <= 18 milliseconds
+98.14% <= 19 milliseconds
+98.25% <= 20 milliseconds
+98.35% <= 21 milliseconds
+98.40% <= 22 milliseconds
+98.52% <= 23 milliseconds
+98.65% <= 24 milliseconds
+98.75% <= 25 milliseconds
+98.85% <= 26 milliseconds
+98.90% <= 27 milliseconds
+99.00% <= 28 milliseconds
+99.07% <= 29 milliseconds
+99.11% <= 30 milliseconds
+99.17% <= 31 milliseconds
+99.23% <= 32 milliseconds
+99.29% <= 33 milliseconds
+99.35% <= 34 milliseconds
+99.36% <= 35 milliseconds
+99.39% <= 36 milliseconds
+99.46% <= 37 milliseconds
+99.49% <= 38 milliseconds
+99.51% <= 39 milliseconds
+99.55% <= 40 milliseconds
+99.59% <= 41 milliseconds
+99.61% <= 42 milliseconds
+99.63% <= 43 milliseconds
+99.63% <= 45 milliseconds
+99.65% <= 46 milliseconds
+99.66% <= 47 milliseconds
+99.67% <= 48 milliseconds
+99.68% <= 49 milliseconds
+99.70% <= 50 milliseconds
+99.71% <= 51 milliseconds
+99.72% <= 53 milliseconds
+99.72% <= 54 milliseconds
+99.74% <= 55 milliseconds
+99.79% <= 56 milliseconds
+99.80% <= 57 milliseconds
+99.80% <= 60 milliseconds
+99.81% <= 61 milliseconds
+99.83% <= 62 milliseconds
+99.83% <= 63 milliseconds
+99.84% <= 64 milliseconds
+99.87% <= 65 milliseconds
+99.87% <= 66 milliseconds
+99.88% <= 67 milliseconds
+99.89% <= 74 milliseconds
+99.89% <= 75 milliseconds
+99.89% <= 92 milliseconds
+99.89% <= 98 milliseconds
+99.89% <= 99 milliseconds
+99.90% <= 108 milliseconds
+99.92% <= 109 milliseconds
+99.92% <= 110 milliseconds
+99.92% <= 111 milliseconds
+99.93% <= 112 milliseconds
+99.94% <= 113 milliseconds
+99.94% <= 114 milliseconds
+99.96% <= 115 milliseconds
+99.98% <= 117 milliseconds
+99.98% <= 118 milliseconds
+99.99% <= 123 milliseconds
+99.99% <= 149 milliseconds
+100.00% <= 150 milliseconds
+100.00% <= 152 milliseconds
+100.00% <= 154 milliseconds
+7321.18 requests per second
+
+RPOP: 5061.95RPOP: 6190.08RPOP: 7166.40RPOP: 7381.94RPOP: 6030.52RPOP: 6182.55RPOP: 6326.52RPOP: 6611.05RPOP: 6679.28RPOP: 6878.60RPOP: 6578.42RPOP: 6505.94RPOP: 6213.28RPOP: 5991.39RPOP: 5983.69RPOP: 6149.69RPOP: 6213.89RPOP: 6320.60RPOP: 6258.82RPOP: 6270.58RPOP: 6368.29RPOP: 6444.80RPOP: 6520.90RPOP: 6547.95RPOP: 6470.60RPOP: 6524.32RPOP: 6503.93RPOP: 6402.74RPOP: 6308.11RPOP: 6252.71RPOP: 6129.82RPOP: 6011.43RPOP: 5927.39RPOP: 5838.33RPOP: 5699.76RPOP: 5587.22RPOP: 5446.06RPOP: 5343.77RPOP: 5251.04RPOP: 5183.50RPOP: 5098.59RPOP: 4994.32RPOP: 4891.32RPOP: 4810.72RPOP: 4748.99RPOP: 4679.88RPOP: 4594.58RPOP: 4526.24RPOP: 4561.81RPOP: 4619.53RPOP: 4673.01RPOP: 4690.65RPOP: 4744.62RPOP: 4714.94RPOP: 4755.97RPOP: 4834.53RPOP: 4878.62RPOP: 4891.63RPOP: 4930.23RPOP: 4987.26RPOP: 5056.65RPOP: 5083.89RPOP: 5080.17RPOP: 5106.93RPOP: 5162.80RPOP: 5217.70RPOP: 5261.40RPOP: 5292.82RPOP: 5334.27RPOP: 5379.35RPOP: 5424.91RPOP: 5467.11====== RPOP ======
+  100000 requests completed in 18.17 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 1 milliseconds
+0.03% <= 2 milliseconds
+1.49% <= 3 milliseconds
+16.51% <= 4 milliseconds
+43.29% <= 5 milliseconds
+60.59% <= 6 milliseconds
+71.44% <= 7 milliseconds
+78.04% <= 8 milliseconds
+82.03% <= 9 milliseconds
+84.57% <= 10 milliseconds
+86.59% <= 11 milliseconds
+88.71% <= 12 milliseconds
+90.17% <= 13 milliseconds
+91.28% <= 14 milliseconds
+92.10% <= 15 milliseconds
+92.74% <= 16 milliseconds
+93.17% <= 17 milliseconds
+93.66% <= 18 milliseconds
+94.01% <= 19 milliseconds
+94.37% <= 20 milliseconds
+94.68% <= 21 milliseconds
+94.99% <= 22 milliseconds
+95.13% <= 23 milliseconds
+95.34% <= 24 milliseconds
+95.55% <= 25 milliseconds
+95.84% <= 26 milliseconds
+96.08% <= 27 milliseconds
+96.42% <= 28 milliseconds
+96.60% <= 29 milliseconds
+96.71% <= 30 milliseconds
+96.85% <= 31 milliseconds
+96.96% <= 32 milliseconds
+97.09% <= 33 milliseconds
+97.25% <= 34 milliseconds
+97.40% <= 35 milliseconds
+97.48% <= 36 milliseconds
+97.54% <= 37 milliseconds
+97.68% <= 38 milliseconds
+97.78% <= 39 milliseconds
+97.87% <= 40 milliseconds
+97.95% <= 41 milliseconds
+98.02% <= 42 milliseconds
+98.05% <= 43 milliseconds
+98.12% <= 44 milliseconds
+98.15% <= 45 milliseconds
+98.17% <= 46 milliseconds
+98.19% <= 47 milliseconds
+98.24% <= 48 milliseconds
+98.28% <= 49 milliseconds
+98.31% <= 50 milliseconds
+98.35% <= 51 milliseconds
+98.38% <= 52 milliseconds
+98.40% <= 53 milliseconds
+98.46% <= 54 milliseconds
+98.48% <= 55 milliseconds
+98.51% <= 56 milliseconds
+98.54% <= 57 milliseconds
+98.56% <= 58 milliseconds
+98.59% <= 59 milliseconds
+98.68% <= 60 milliseconds
+98.72% <= 61 milliseconds
+98.76% <= 62 milliseconds
+98.78% <= 63 milliseconds
+98.82% <= 64 milliseconds
+98.84% <= 65 milliseconds
+98.88% <= 66 milliseconds
+98.91% <= 67 milliseconds
+98.93% <= 68 milliseconds
+98.93% <= 69 milliseconds
+98.95% <= 70 milliseconds
+98.97% <= 71 milliseconds
+98.97% <= 72 milliseconds
+98.99% <= 73 milliseconds
+99.00% <= 74 milliseconds
+99.02% <= 75 milliseconds
+99.03% <= 76 milliseconds
+99.03% <= 77 milliseconds
+99.04% <= 78 milliseconds
+99.05% <= 79 milliseconds
+99.07% <= 80 milliseconds
+99.08% <= 81 milliseconds
+99.08% <= 82 milliseconds
+99.09% <= 83 milliseconds
+99.09% <= 84 milliseconds
+99.11% <= 85 milliseconds
+99.14% <= 86 milliseconds
+99.14% <= 87 milliseconds
+99.15% <= 88 milliseconds
+99.18% <= 89 milliseconds
+99.19% <= 90 milliseconds
+99.21% <= 91 milliseconds
+99.22% <= 92 milliseconds
+99.22% <= 93 milliseconds
+99.24% <= 94 milliseconds
+99.29% <= 95 milliseconds
+99.30% <= 96 milliseconds
+99.30% <= 97 milliseconds
+99.31% <= 98 milliseconds
+99.31% <= 99 milliseconds
+99.32% <= 100 milliseconds
+99.32% <= 101 milliseconds
+99.32% <= 102 milliseconds
+99.34% <= 103 milliseconds
+99.34% <= 104 milliseconds
+99.34% <= 105 milliseconds
+99.34% <= 106 milliseconds
+99.35% <= 107 milliseconds
+99.35% <= 108 milliseconds
+99.36% <= 109 milliseconds
+99.38% <= 110 milliseconds
+99.38% <= 111 milliseconds
+99.38% <= 112 milliseconds
+99.39% <= 113 milliseconds
+99.41% <= 114 milliseconds
+99.42% <= 115 milliseconds
+99.43% <= 116 milliseconds
+99.45% <= 117 milliseconds
+99.47% <= 118 milliseconds
+99.49% <= 119 milliseconds
+99.51% <= 120 milliseconds
+99.52% <= 122 milliseconds
+99.54% <= 123 milliseconds
+99.55% <= 124 milliseconds
+99.55% <= 125 milliseconds
+99.56% <= 126 milliseconds
+99.58% <= 127 milliseconds
+99.59% <= 128 milliseconds
+99.59% <= 129 milliseconds
+99.60% <= 130 milliseconds
+99.60% <= 132 milliseconds
+99.60% <= 133 milliseconds
+99.62% <= 134 milliseconds
+99.63% <= 135 milliseconds
+99.64% <= 136 milliseconds
+99.64% <= 137 milliseconds
+99.64% <= 138 milliseconds
+99.65% <= 141 milliseconds
+99.65% <= 142 milliseconds
+99.65% <= 143 milliseconds
+99.67% <= 144 milliseconds
+99.68% <= 148 milliseconds
+99.68% <= 149 milliseconds
+99.68% <= 150 milliseconds
+99.69% <= 151 milliseconds
+99.69% <= 153 milliseconds
+99.69% <= 154 milliseconds
+99.69% <= 157 milliseconds
+99.70% <= 158 milliseconds
+99.71% <= 160 milliseconds
+99.71% <= 161 milliseconds
+99.71% <= 162 milliseconds
+99.71% <= 164 milliseconds
+99.71% <= 165 milliseconds
+99.72% <= 166 milliseconds
+99.72% <= 167 milliseconds
+99.73% <= 168 milliseconds
+99.73% <= 169 milliseconds
+99.73% <= 170 milliseconds
+99.74% <= 182 milliseconds
+99.74% <= 188 milliseconds
+99.74% <= 189 milliseconds
+99.74% <= 191 milliseconds
+99.76% <= 192 milliseconds
+99.76% <= 195 milliseconds
+99.78% <= 196 milliseconds
+99.78% <= 197 milliseconds
+99.79% <= 198 milliseconds
+99.79% <= 201 milliseconds
+99.79% <= 202 milliseconds
+99.79% <= 210 milliseconds
+99.79% <= 211 milliseconds
+99.79% <= 212 milliseconds
+99.79% <= 213 milliseconds
+99.80% <= 215 milliseconds
+99.80% <= 217 milliseconds
+99.81% <= 218 milliseconds
+99.82% <= 219 milliseconds
+99.85% <= 220 milliseconds
+99.86% <= 223 milliseconds
+99.86% <= 224 milliseconds
+99.87% <= 225 milliseconds
+99.87% <= 226 milliseconds
+99.87% <= 227 milliseconds
+99.88% <= 228 milliseconds
+99.88% <= 229 milliseconds
+99.88% <= 230 milliseconds
+99.88% <= 233 milliseconds
+99.89% <= 235 milliseconds
+99.89% <= 237 milliseconds
+99.90% <= 238 milliseconds
+99.91% <= 239 milliseconds
+99.91% <= 244 milliseconds
+99.91% <= 251 milliseconds
+99.91% <= 255 milliseconds
+99.92% <= 256 milliseconds
+99.94% <= 258 milliseconds
+99.94% <= 259 milliseconds
+99.94% <= 262 milliseconds
+99.95% <= 263 milliseconds
+99.96% <= 265 milliseconds
+99.96% <= 266 milliseconds
+99.96% <= 267 milliseconds
+99.96% <= 269 milliseconds
+99.96% <= 281 milliseconds
+99.96% <= 287 milliseconds
+99.96% <= 293 milliseconds
+99.97% <= 312 milliseconds
+99.97% <= 317 milliseconds
+99.97% <= 321 milliseconds
+99.97% <= 339 milliseconds
+99.97% <= 348 milliseconds
+99.97% <= 349 milliseconds
+99.97% <= 378 milliseconds
+99.98% <= 409 milliseconds
+99.98% <= 428 milliseconds
+99.98% <= 515 milliseconds
+99.98% <= 560 milliseconds
+99.98% <= 585 milliseconds
+99.98% <= 610 milliseconds
+99.98% <= 636 milliseconds
+99.98% <= 639 milliseconds
+99.98% <= 647 milliseconds
+99.99% <= 652 milliseconds
+99.99% <= 657 milliseconds
+99.99% <= 659 milliseconds
+99.99% <= 662 milliseconds
+99.99% <= 671 milliseconds
+99.99% <= 675 milliseconds
+99.99% <= 684 milliseconds
+99.99% <= 717 milliseconds
+99.99% <= 726 milliseconds
+100.00% <= 785 milliseconds
+100.00% <= 882 milliseconds
+100.00% <= 889 milliseconds
+100.00% <= 915 milliseconds
+5503.58 requests per second
+
+SADD: 0.00SADD: 7011.95SADD: 7510.98SADD: 8150.27SADD: 7611.17SADD: 7448.61SADD: 7551.50SADD: 7529.91SADD: 7501.25SADD: 7538.36SADD: 7508.98SADD: 7604.06SADD: 7638.63SADD: 7654.39SADD: 7623.15SADD: 7578.23SADD: 7586.83SADD: 7598.40SADD: 7603.15SADD: 7593.11SADD: 7536.14SADD: 7555.53SADD: 7484.13SADD: 7369.88SADD: 7325.30SADD: 7348.07SADD: 7361.11SADD: 7376.74SADD: 7309.01SADD: 7295.49SADD: 7256.44SADD: 7250.90SADD: 7187.84SADD: 7015.22SADD: 6967.52SADD: 6883.94SADD: 6805.09SADD: 6684.38SADD: 6683.11SADD: 6638.89SADD: 6628.09SADD: 6591.23SADD: 6637.68SADD: 6672.88SADD: 6663.28SADD: 6649.12SADD: 6644.58SADD: 6635.24SADD: 6636.92SADD: 6664.98SADD: 6637.04SADD: 6534.45SADD: 6437.23SADD: 6353.53SADD: 6368.86SADD: 6310.76SADD: 6278.72SADD: 6231.02SADD: 6203.85SADD: 6219.13SADD: 6249.98SADD: 6269.10SADD: 6262.39SADD: 6245.12====== SADD ======
+  100000 requests completed in 16.02 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 1 milliseconds
+0.01% <= 2 milliseconds
+1.00% <= 3 milliseconds
+12.61% <= 4 milliseconds
+38.67% <= 5 milliseconds
+57.22% <= 6 milliseconds
+69.13% <= 7 milliseconds
+77.02% <= 8 milliseconds
+82.00% <= 9 milliseconds
+85.18% <= 10 milliseconds
+87.69% <= 11 milliseconds
+89.85% <= 12 milliseconds
+91.63% <= 13 milliseconds
+92.86% <= 14 milliseconds
+93.79% <= 15 milliseconds
+94.42% <= 16 milliseconds
+94.96% <= 17 milliseconds
+95.23% <= 18 milliseconds
+95.68% <= 19 milliseconds
+95.92% <= 20 milliseconds
+96.19% <= 21 milliseconds
+96.46% <= 22 milliseconds
+96.67% <= 23 milliseconds
+96.81% <= 24 milliseconds
+97.03% <= 25 milliseconds
+97.18% <= 26 milliseconds
+97.34% <= 27 milliseconds
+97.46% <= 28 milliseconds
+97.61% <= 29 milliseconds
+97.74% <= 30 milliseconds
+97.89% <= 31 milliseconds
+98.00% <= 32 milliseconds
+98.10% <= 33 milliseconds
+98.20% <= 34 milliseconds
+98.27% <= 35 milliseconds
+98.35% <= 36 milliseconds
+98.41% <= 37 milliseconds
+98.50% <= 38 milliseconds
+98.59% <= 39 milliseconds
+98.69% <= 40 milliseconds
+98.74% <= 41 milliseconds
+98.78% <= 42 milliseconds
+98.81% <= 43 milliseconds
+98.83% <= 44 milliseconds
+98.84% <= 45 milliseconds
+98.88% <= 46 milliseconds
+98.92% <= 47 milliseconds
+98.94% <= 48 milliseconds
+98.96% <= 49 milliseconds
+98.96% <= 50 milliseconds
+99.02% <= 51 milliseconds
+99.03% <= 52 milliseconds
+99.05% <= 53 milliseconds
+99.07% <= 54 milliseconds
+99.09% <= 55 milliseconds
+99.12% <= 56 milliseconds
+99.14% <= 57 milliseconds
+99.17% <= 58 milliseconds
+99.20% <= 59 milliseconds
+99.24% <= 60 milliseconds
+99.29% <= 61 milliseconds
+99.32% <= 62 milliseconds
+99.35% <= 63 milliseconds
+99.37% <= 64 milliseconds
+99.38% <= 65 milliseconds
+99.38% <= 66 milliseconds
+99.39% <= 67 milliseconds
+99.41% <= 68 milliseconds
+99.44% <= 69 milliseconds
+99.49% <= 70 milliseconds
+99.50% <= 71 milliseconds
+99.51% <= 72 milliseconds
+99.52% <= 73 milliseconds
+99.53% <= 74 milliseconds
+99.54% <= 77 milliseconds
+99.54% <= 78 milliseconds
+99.55% <= 79 milliseconds
+99.56% <= 81 milliseconds
+99.56% <= 82 milliseconds
+99.57% <= 83 milliseconds
+99.57% <= 84 milliseconds
+99.59% <= 85 milliseconds
+99.60% <= 86 milliseconds
+99.60% <= 87 milliseconds
+99.61% <= 88 milliseconds
+99.62% <= 89 milliseconds
+99.65% <= 90 milliseconds
+99.65% <= 91 milliseconds
+99.66% <= 92 milliseconds
+99.68% <= 93 milliseconds
+99.68% <= 94 milliseconds
+99.71% <= 95 milliseconds
+99.72% <= 96 milliseconds
+99.72% <= 97 milliseconds
+99.72% <= 98 milliseconds
+99.74% <= 99 milliseconds
+99.75% <= 100 milliseconds
+99.77% <= 101 milliseconds
+99.78% <= 102 milliseconds
+99.78% <= 103 milliseconds
+99.81% <= 104 milliseconds
+99.83% <= 108 milliseconds
+99.85% <= 109 milliseconds
+99.86% <= 112 milliseconds
+99.86% <= 114 milliseconds
+99.86% <= 115 milliseconds
+99.87% <= 117 milliseconds
+99.87% <= 118 milliseconds
+99.88% <= 119 milliseconds
+99.88% <= 122 milliseconds
+99.88% <= 128 milliseconds
+99.88% <= 134 milliseconds
+99.88% <= 137 milliseconds
+99.89% <= 138 milliseconds
+99.89% <= 143 milliseconds
+99.89% <= 144 milliseconds
+99.90% <= 146 milliseconds
+99.90% <= 147 milliseconds
+99.90% <= 149 milliseconds
+99.90% <= 151 milliseconds
+99.91% <= 152 milliseconds
+99.92% <= 153 milliseconds
+99.92% <= 157 milliseconds
+99.92% <= 159 milliseconds
+99.93% <= 160 milliseconds
+99.95% <= 161 milliseconds
+99.96% <= 162 milliseconds
+99.98% <= 163 milliseconds
+99.98% <= 164 milliseconds
+99.99% <= 167 milliseconds
+99.99% <= 172 milliseconds
+99.99% <= 175 milliseconds
+100.00% <= 191 milliseconds
+100.00% <= 195 milliseconds
+100.00% <= 224 milliseconds
+100.00% <= 264 milliseconds
+100.00% <= 264 milliseconds
+6241.81 requests per second
+
+HSET: nanHSET: 6520.00HSET: 6808.38HSET: 6541.94HSET: 6354.65HSET: 6201.28HSET: 5850.87HSET: 6049.09HSET: 5772.23HSET: 5842.36HSET: 5866.56HSET: 5962.22HSET: 5755.24HSET: 5842.30HSET: 5865.54HSET: 5934.72HSET: 5978.52HSET: 5708.21HSET: 5715.97HSET: 5811.70HSET: 5880.07HSET: 6009.71HSET: 6087.41HSET: 6183.56HSET: 6287.02HSET: 6353.91HSET: 6441.73HSET: 6533.61HSET: 6523.69HSET: 6540.08HSET: 6588.02HSET: 6628.99HSET: 6652.93HSET: 6638.14HSET: 6688.13HSET: 6701.03HSET: 6731.52HSET: 6772.68HSET: 6813.35HSET: 6853.29HSET: 6879.43HSET: 6913.26HSET: 6906.87HSET: 6943.50HSET: 6977.39HSET: 7012.61HSET: 7018.68HSET: 7016.49HSET: 7010.82HSET: 7036.78HSET: 7036.36HSET: 7023.58HSET: 7042.88HSET: 7043.28HSET: 7074.08HSET: 7090.45HSET: 7095.19====== HSET ======
+  100000 requests completed in 14.09 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 1 milliseconds
+0.01% <= 2 milliseconds
+0.85% <= 3 milliseconds
+13.95% <= 4 milliseconds
+41.90% <= 5 milliseconds
+59.64% <= 6 milliseconds
+72.36% <= 7 milliseconds
+80.37% <= 8 milliseconds
+85.31% <= 9 milliseconds
+88.26% <= 10 milliseconds
+90.63% <= 11 milliseconds
+92.66% <= 12 milliseconds
+94.30% <= 13 milliseconds
+95.43% <= 14 milliseconds
+96.34% <= 15 milliseconds
+96.90% <= 16 milliseconds
+97.26% <= 17 milliseconds
+97.54% <= 18 milliseconds
+97.68% <= 19 milliseconds
+97.79% <= 20 milliseconds
+97.96% <= 21 milliseconds
+98.07% <= 22 milliseconds
+98.19% <= 23 milliseconds
+98.33% <= 24 milliseconds
+98.51% <= 25 milliseconds
+98.66% <= 26 milliseconds
+98.79% <= 27 milliseconds
+98.87% <= 28 milliseconds
+98.96% <= 29 milliseconds
+99.05% <= 30 milliseconds
+99.11% <= 31 milliseconds
+99.24% <= 32 milliseconds
+99.32% <= 33 milliseconds
+99.35% <= 34 milliseconds
+99.38% <= 35 milliseconds
+99.42% <= 36 milliseconds
+99.42% <= 37 milliseconds
+99.43% <= 38 milliseconds
+99.44% <= 39 milliseconds
+99.46% <= 40 milliseconds
+99.48% <= 41 milliseconds
+99.50% <= 42 milliseconds
+99.51% <= 43 milliseconds
+99.55% <= 44 milliseconds
+99.57% <= 45 milliseconds
+99.59% <= 46 milliseconds
+99.60% <= 48 milliseconds
+99.61% <= 49 milliseconds
+99.62% <= 50 milliseconds
+99.67% <= 51 milliseconds
+99.69% <= 52 milliseconds
+99.72% <= 53 milliseconds
+99.73% <= 54 milliseconds
+99.75% <= 55 milliseconds
+99.75% <= 56 milliseconds
+99.78% <= 57 milliseconds
+99.79% <= 58 milliseconds
+99.81% <= 59 milliseconds
+99.82% <= 60 milliseconds
+99.84% <= 61 milliseconds
+99.84% <= 62 milliseconds
+99.85% <= 64 milliseconds
+99.85% <= 65 milliseconds
+99.85% <= 71 milliseconds
+99.86% <= 91 milliseconds
+99.86% <= 92 milliseconds
+99.86% <= 93 milliseconds
+99.86% <= 94 milliseconds
+99.86% <= 101 milliseconds
+99.87% <= 106 milliseconds
+99.87% <= 107 milliseconds
+99.87% <= 109 milliseconds
+99.88% <= 116 milliseconds
+99.89% <= 120 milliseconds
+99.89% <= 121 milliseconds
+99.89% <= 122 milliseconds
+99.90% <= 123 milliseconds
+99.90% <= 124 milliseconds
+99.91% <= 126 milliseconds
+99.91% <= 127 milliseconds
+99.92% <= 128 milliseconds
+99.93% <= 129 milliseconds
+99.93% <= 130 milliseconds
+99.93% <= 131 milliseconds
+99.94% <= 134 milliseconds
+99.95% <= 135 milliseconds
+99.95% <= 145 milliseconds
+99.95% <= 152 milliseconds
+99.96% <= 161 milliseconds
+99.96% <= 177 milliseconds
+99.96% <= 192 milliseconds
+99.97% <= 193 milliseconds
+99.98% <= 194 milliseconds
+99.98% <= 195 milliseconds
+100.00% <= 196 milliseconds
+100.00% <= 196 milliseconds
+7098.74 requests per second
+
+SPOP: 6757.14SPOP: 6258.31SPOP: 6967.24SPOP: 6868.69SPOP: 7109.46SPOP: 7079.74SPOP: 7091.96SPOP: 6736.40SPOP: 6897.34SPOP: 6921.44SPOP: 7094.59SPOP: 7139.30SPOP: 7286.99SPOP: 7411.02SPOP: 7460.91SPOP: 7557.64SPOP: 7562.95SPOP: 7627.16SPOP: 7707.49SPOP: 7697.10SPOP: 7574.90SPOP: 7554.01SPOP: 7576.41SPOP: 7580.13SPOP: 7589.39SPOP: 7609.97SPOP: 7637.43SPOP: 7620.99SPOP: 7630.89SPOP: 7626.33SPOP: 7661.04SPOP: 7709.00SPOP: 7696.98SPOP: 7737.56SPOP: 7757.46SPOP: 7758.65SPOP: 7785.25SPOP: 7801.28SPOP: 7844.77SPOP: 7853.13SPOP: 7865.32SPOP: 7882.98SPOP: 7891.64SPOP: 7903.03SPOP: 7908.25SPOP: 7892.74SPOP: 7806.04SPOP: 7786.52SPOP: 7775.79SPOP: 7781.92SPOP: 7723.33SPOP: 7743.96====== SPOP ======
+  100000 requests completed in 12.91 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 2 milliseconds
+0.93% <= 3 milliseconds
+16.89% <= 4 milliseconds
+48.90% <= 5 milliseconds
+67.98% <= 6 milliseconds
+79.08% <= 7 milliseconds
+85.53% <= 8 milliseconds
+88.73% <= 9 milliseconds
+90.88% <= 10 milliseconds
+92.59% <= 11 milliseconds
+94.11% <= 12 milliseconds
+95.26% <= 13 milliseconds
+96.19% <= 14 milliseconds
+96.78% <= 15 milliseconds
+97.21% <= 16 milliseconds
+97.50% <= 17 milliseconds
+97.68% <= 18 milliseconds
+97.83% <= 19 milliseconds
+97.98% <= 20 milliseconds
+98.12% <= 21 milliseconds
+98.21% <= 22 milliseconds
+98.35% <= 23 milliseconds
+98.53% <= 24 milliseconds
+98.60% <= 25 milliseconds
+98.85% <= 26 milliseconds
+98.98% <= 27 milliseconds
+99.10% <= 28 milliseconds
+99.21% <= 29 milliseconds
+99.23% <= 30 milliseconds
+99.25% <= 31 milliseconds
+99.28% <= 32 milliseconds
+99.32% <= 33 milliseconds
+99.35% <= 34 milliseconds
+99.43% <= 35 milliseconds
+99.51% <= 36 milliseconds
+99.54% <= 37 milliseconds
+99.56% <= 38 milliseconds
+99.58% <= 39 milliseconds
+99.60% <= 40 milliseconds
+99.61% <= 41 milliseconds
+99.63% <= 42 milliseconds
+99.64% <= 43 milliseconds
+99.65% <= 44 milliseconds
+99.65% <= 45 milliseconds
+99.66% <= 46 milliseconds
+99.66% <= 47 milliseconds
+99.68% <= 48 milliseconds
+99.70% <= 49 milliseconds
+99.71% <= 50 milliseconds
+99.72% <= 51 milliseconds
+99.75% <= 52 milliseconds
+99.78% <= 53 milliseconds
+99.81% <= 54 milliseconds
+99.84% <= 55 milliseconds
+99.85% <= 57 milliseconds
+99.85% <= 61 milliseconds
+99.86% <= 62 milliseconds
+99.86% <= 63 milliseconds
+99.86% <= 64 milliseconds
+99.87% <= 65 milliseconds
+99.91% <= 66 milliseconds
+99.92% <= 67 milliseconds
+99.92% <= 68 milliseconds
+99.92% <= 70 milliseconds
+99.93% <= 71 milliseconds
+99.93% <= 73 milliseconds
+99.93% <= 77 milliseconds
+99.94% <= 80 milliseconds
+99.94% <= 85 milliseconds
+99.95% <= 87 milliseconds
+99.95% <= 89 milliseconds
+99.95% <= 95 milliseconds
+99.96% <= 98 milliseconds
+99.96% <= 99 milliseconds
+99.96% <= 103 milliseconds
+99.97% <= 109 milliseconds
+99.98% <= 110 milliseconds
+99.98% <= 116 milliseconds
+99.99% <= 117 milliseconds
+99.99% <= 119 milliseconds
+100.00% <= 125 milliseconds
+100.00% <= 125 milliseconds
+7745.93 requests per second
+
+LPUSH (needed to benchmark LRANGE): 6602.94LPUSH (needed to benchmark LRANGE): 7872.25LPUSH (needed to benchmark LRANGE): 7961.65LPUSH (needed to benchmark LRANGE): 7387.50LPUSH (needed to benchmark LRANGE): 7436.00LPUSH (needed to benchmark LRANGE): 7232.56LPUSH (needed to benchmark LRANGE): 7334.70LPUSH (needed to benchmark LRANGE): 7446.99LPUSH (needed to benchmark LRANGE): 7370.71LPUSH (needed to benchmark LRANGE): 7551.58LPUSH (needed to benchmark LRANGE): 7683.26LPUSH (needed to benchmark LRANGE): 7544.72LPUSH (needed to benchmark LRANGE): 7450.53LPUSH (needed to benchmark LRANGE): 7166.57LPUSH (needed to benchmark LRANGE): 7166.94LPUSH (needed to benchmark LRANGE): 7216.14LPUSH (needed to benchmark LRANGE): 7148.52LPUSH (needed to benchmark LRANGE): 7190.37LPUSH (needed to benchmark LRANGE): 7174.09LPUSH (needed to benchmark LRANGE): 7142.37LPUSH (needed to benchmark LRANGE): 7231.17LPUSH (needed to benchmark LRANGE): 7259.69LPUSH (needed to benchmark LRANGE): 7332.46LPUSH (needed to benchmark LRANGE): 7314.85LPUSH (needed to benchmark LRANGE): 7345.29LPUSH (needed to benchmark LRANGE): 7395.95LPUSH (needed to benchmark LRANGE): 7442.54LPUSH (needed to benchmark LRANGE): 7441.16LPUSH (needed to benchmark LRANGE): 7438.76LPUSH (needed to benchmark LRANGE): 7443.49LPUSH (needed to benchmark LRANGE): 7464.96LPUSH (needed to benchmark LRANGE): 7381.48LPUSH (needed to benchmark LRANGE): 7344.53LPUSH (needed to benchmark LRANGE): 7397.28LPUSH (needed to benchmark LRANGE): 7411.70LPUSH (needed to benchmark LRANGE): 7466.67LPUSH (needed to benchmark LRANGE): 7459.26LPUSH (needed to benchmark LRANGE): 7487.66LPUSH (needed to benchmark LRANGE): 7482.53LPUSH (needed to benchmark LRANGE): 7465.18LPUSH (needed to benchmark LRANGE): 7482.85LPUSH (needed to benchmark LRANGE): 7463.41LPUSH (needed to benchmark LRANGE): 7478.89LPUSH (needed to benchmark LRANGE): 7451.37LPUSH (needed to benchmark LRANGE): 7409.99LPUSH (needed to benchmark LRANGE): 7350.95LPUSH (needed to benchmark LRANGE): 7376.12LPUSH (needed to benchmark LRANGE): 7405.41LPUSH (needed to benchmark LRANGE): 7401.29LPUSH (needed to benchmark LRANGE): 7381.96LPUSH (needed to benchmark LRANGE): 7397.08LPUSH (needed to benchmark LRANGE): 7408.77LPUSH (needed to benchmark LRANGE): 7440.72====== LPUSH (needed to benchmark LRANGE) ======
+  100000 requests completed in 13.42 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 1 milliseconds
+0.00% <= 2 milliseconds
+0.83% <= 3 milliseconds
+16.14% <= 4 milliseconds
+45.85% <= 5 milliseconds
+65.00% <= 6 milliseconds
+76.25% <= 7 milliseconds
+82.97% <= 8 milliseconds
+87.14% <= 9 milliseconds
+89.76% <= 10 milliseconds
+91.61% <= 11 milliseconds
+93.33% <= 12 milliseconds
+94.45% <= 13 milliseconds
+95.39% <= 14 milliseconds
+95.94% <= 15 milliseconds
+96.39% <= 16 milliseconds
+96.75% <= 17 milliseconds
+97.03% <= 18 milliseconds
+97.30% <= 19 milliseconds
+97.53% <= 20 milliseconds
+97.71% <= 21 milliseconds
+97.87% <= 22 milliseconds
+98.02% <= 23 milliseconds
+98.22% <= 24 milliseconds
+98.33% <= 25 milliseconds
+98.48% <= 26 milliseconds
+98.62% <= 27 milliseconds
+98.75% <= 28 milliseconds
+98.80% <= 29 milliseconds
+98.93% <= 30 milliseconds
+99.02% <= 31 milliseconds
+99.10% <= 32 milliseconds
+99.20% <= 33 milliseconds
+99.28% <= 34 milliseconds
+99.37% <= 35 milliseconds
+99.42% <= 36 milliseconds
+99.49% <= 37 milliseconds
+99.57% <= 38 milliseconds
+99.65% <= 39 milliseconds
+99.69% <= 40 milliseconds
+99.73% <= 41 milliseconds
+99.73% <= 42 milliseconds
+99.74% <= 43 milliseconds
+99.76% <= 44 milliseconds
+99.77% <= 45 milliseconds
+99.80% <= 46 milliseconds
+99.81% <= 47 milliseconds
+99.81% <= 49 milliseconds
+99.82% <= 51 milliseconds
+99.83% <= 52 milliseconds
+99.83% <= 53 milliseconds
+99.84% <= 54 milliseconds
+99.86% <= 55 milliseconds
+99.86% <= 56 milliseconds
+99.88% <= 57 milliseconds
+99.89% <= 59 milliseconds
+99.90% <= 60 milliseconds
+99.91% <= 61 milliseconds
+99.92% <= 62 milliseconds
+99.92% <= 66 milliseconds
+99.93% <= 67 milliseconds
+99.93% <= 68 milliseconds
+99.94% <= 69 milliseconds
+99.96% <= 70 milliseconds
+99.97% <= 72 milliseconds
+99.97% <= 73 milliseconds
+99.98% <= 74 milliseconds
+99.98% <= 76 milliseconds
+99.98% <= 94 milliseconds
+99.99% <= 102 milliseconds
+99.99% <= 104 milliseconds
+100.00% <= 109 milliseconds
+100.00% <= 112 milliseconds
+7452.12 requests per second
+
+LRANGE_100 (first 100 elements): 4037.04LRANGE_100 (first 100 elements): 4530.69LRANGE_100 (first 100 elements): 4371.21LRANGE_100 (first 100 elements): 4348.33LRANGE_100 (first 100 elements): 4452.33LRANGE_100 (first 100 elements): 4534.43LRANGE_100 (first 100 elements): 4393.07LRANGE_100 (first 100 elements): 4481.17LRANGE_100 (first 100 elements): 4540.39LRANGE_100 (first 100 elements): 4577.63LRANGE_100 (first 100 elements): 4697.23LRANGE_100 (first 100 elements): 4724.46LRANGE_100 (first 100 elements): 4788.12LRANGE_100 (first 100 elements): 4797.68LRANGE_100 (first 100 elements): 4788.50LRANGE_100 (first 100 elements): 4810.95LRANGE_100 (first 100 elements): 4823.21LRANGE_100 (first 100 elements): 4842.17LRANGE_100 (first 100 elements): 4893.67LRANGE_100 (first 100 elements): 4875.21LRANGE_100 (first 100 elements): 4907.23LRANGE_100 (first 100 elements): 4926.38LRANGE_100 (first 100 elements): 4969.82LRANGE_100 (first 100 elements): 5017.98LRANGE_100 (first 100 elements): 5033.64LRANGE_100 (first 100 elements): 5057.13LRANGE_100 (first 100 elements): 5080.81LRANGE_100 (first 100 elements): 5113.01LRANGE_100 (first 100 elements): 5102.60LRANGE_100 (first 100 elements): 5089.06LRANGE_100 (first 100 elements): 5077.35LRANGE_100 (first 100 elements): 5068.45LRANGE_100 (first 100 elements): 5057.10LRANGE_100 (first 100 elements): 5057.19LRANGE_100 (first 100 elements): 5036.78LRANGE_100 (first 100 elements): 5017.86LRANGE_100 (first 100 elements): 4962.50LRANGE_100 (first 100 elements): 4943.92LRANGE_100 (first 100 elements): 4920.44LRANGE_100 (first 100 elements): 4913.95LRANGE_100 (first 100 elements): 4898.12LRANGE_100 (first 100 elements): 4884.47LRANGE_100 (first 100 elements): 4907.91LRANGE_100 (first 100 elements): 4930.82LRANGE_100 (first 100 elements): 4954.86LRANGE_100 (first 100 elements): 4969.40LRANGE_100 (first 100 elements): 4952.07LRANGE_100 (first 100 elements): 4916.11LRANGE_100 (first 100 elements): 4928.73LRANGE_100 (first 100 elements): 4919.02LRANGE_100 (first 100 elements): 4904.63LRANGE_100 (first 100 elements): 4873.40LRANGE_100 (first 100 elements): 4840.85LRANGE_100 (first 100 elements): 4801.51LRANGE_100 (first 100 elements): 4790.78LRANGE_100 (first 100 elements): 4794.84LRANGE_100 (first 100 elements): 4786.65LRANGE_100 (first 100 elements): 4788.62LRANGE_100 (first 100 elements): 4787.86LRANGE_100 (first 100 elements): 4804.73LRANGE_100 (first 100 elements): 4809.56LRANGE_100 (first 100 elements): 4787.26LRANGE_100 (first 100 elements): 4714.48LRANGE_100 (first 100 elements): 4652.23LRANGE_100 (first 100 elements): 4581.11LRANGE_100 (first 100 elements): 4517.76LRANGE_100 (first 100 elements): 4488.91LRANGE_100 (first 100 elements): 4477.47LRANGE_100 (first 100 elements): 4465.48LRANGE_100 (first 100 elements): 4457.67LRANGE_100 (first 100 elements): 4440.87LRANGE_100 (first 100 elements): 4411.62LRANGE_100 (first 100 elements): 4395.03LRANGE_100 (first 100 elements): 4369.80LRANGE_100 (first 100 elements): 4343.79LRANGE_100 (first 100 elements): 4340.51LRANGE_100 (first 100 elements): 4328.89LRANGE_100 (first 100 elements): 4308.36LRANGE_100 (first 100 elements): 4299.38LRANGE_100 (first 100 elements): 4289.18LRANGE_100 (first 100 elements): 4286.03LRANGE_100 (first 100 elements): 4281.54LRANGE_100 (first 100 elements): 4280.55LRANGE_100 (first 100 elements): 4252.17LRANGE_100 (first 100 elements): 4232.82LRANGE_100 (first 100 elements): 4202.17LRANGE_100 (first 100 elements): 4177.06LRANGE_100 (first 100 elements): 4173.08LRANGE_100 (first 100 elements): 4174.91LRANGE_100 (first 100 elements): 4168.49LRANGE_100 (first 100 elements): 4165.66LRANGE_100 (first 100 elements): 4170.88LRANGE_100 (first 100 elements): 4157.41LRANGE_100 (first 100 elements): 4136.62LRANGE_100 (first 100 elements): 4137.11LRANGE_100 (first 100 elements): 4131.07LRANGE_100 (first 100 elements): 4126.82====== LRANGE_100 (first 100 elements) ======
+  100000 requests completed in 24.24 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 2 milliseconds
+0.06% <= 3 milliseconds
+0.58% <= 4 milliseconds
+3.18% <= 5 milliseconds
+12.50% <= 6 milliseconds
+26.82% <= 7 milliseconds
+40.37% <= 8 milliseconds
+51.97% <= 9 milliseconds
+61.11% <= 10 milliseconds
+68.27% <= 11 milliseconds
+73.97% <= 12 milliseconds
+78.25% <= 13 milliseconds
+81.63% <= 14 milliseconds
+84.47% <= 15 milliseconds
+86.73% <= 16 milliseconds
+88.66% <= 17 milliseconds
+90.29% <= 18 milliseconds
+91.63% <= 19 milliseconds
+92.78% <= 20 milliseconds
+93.57% <= 21 milliseconds
+94.23% <= 22 milliseconds
+94.81% <= 23 milliseconds
+95.36% <= 24 milliseconds
+95.83% <= 25 milliseconds
+96.29% <= 26 milliseconds
+96.72% <= 27 milliseconds
+97.02% <= 28 milliseconds
+97.26% <= 29 milliseconds
+97.51% <= 30 milliseconds
+97.69% <= 31 milliseconds
+97.85% <= 32 milliseconds
+98.03% <= 33 milliseconds
+98.14% <= 34 milliseconds
+98.26% <= 35 milliseconds
+98.38% <= 36 milliseconds
+98.46% <= 37 milliseconds
+98.57% <= 38 milliseconds
+98.63% <= 39 milliseconds
+98.69% <= 40 milliseconds
+98.73% <= 41 milliseconds
+98.75% <= 42 milliseconds
+98.78% <= 43 milliseconds
+98.82% <= 44 milliseconds
+98.88% <= 45 milliseconds
+98.92% <= 46 milliseconds
+98.95% <= 47 milliseconds
+98.97% <= 48 milliseconds
+99.01% <= 49 milliseconds
+99.07% <= 50 milliseconds
+99.10% <= 51 milliseconds
+99.12% <= 52 milliseconds
+99.15% <= 53 milliseconds
+99.17% <= 54 milliseconds
+99.18% <= 55 milliseconds
+99.21% <= 56 milliseconds
+99.25% <= 57 milliseconds
+99.28% <= 58 milliseconds
+99.29% <= 59 milliseconds
+99.29% <= 61 milliseconds
+99.30% <= 62 milliseconds
+99.32% <= 63 milliseconds
+99.33% <= 64 milliseconds
+99.33% <= 65 milliseconds
+99.33% <= 66 milliseconds
+99.34% <= 67 milliseconds
+99.34% <= 68 milliseconds
+99.35% <= 69 milliseconds
+99.36% <= 70 milliseconds
+99.36% <= 71 milliseconds
+99.36% <= 72 milliseconds
+99.36% <= 74 milliseconds
+99.38% <= 75 milliseconds
+99.39% <= 76 milliseconds
+99.40% <= 77 milliseconds
+99.41% <= 78 milliseconds
+99.43% <= 79 milliseconds
+99.43% <= 80 milliseconds
+99.44% <= 81 milliseconds
+99.45% <= 82 milliseconds
+99.46% <= 83 milliseconds
+99.46% <= 84 milliseconds
+99.46% <= 85 milliseconds
+99.47% <= 86 milliseconds
+99.47% <= 87 milliseconds
+99.48% <= 88 milliseconds
+99.51% <= 89 milliseconds
+99.52% <= 90 milliseconds
+99.52% <= 91 milliseconds
+99.52% <= 92 milliseconds
+99.53% <= 93 milliseconds
+99.54% <= 94 milliseconds
+99.55% <= 95 milliseconds
+99.55% <= 96 milliseconds
+99.56% <= 97 milliseconds
+99.56% <= 99 milliseconds
+99.57% <= 100 milliseconds
+99.57% <= 101 milliseconds
+99.57% <= 102 milliseconds
+99.57% <= 105 milliseconds
+99.57% <= 107 milliseconds
+99.57% <= 109 milliseconds
+99.58% <= 110 milliseconds
+99.58% <= 111 milliseconds
+99.59% <= 112 milliseconds
+99.60% <= 113 milliseconds
+99.60% <= 114 milliseconds
+99.60% <= 115 milliseconds
+99.61% <= 116 milliseconds
+99.61% <= 117 milliseconds
+99.61% <= 118 milliseconds
+99.63% <= 119 milliseconds
+99.63% <= 120 milliseconds
+99.63% <= 121 milliseconds
+99.64% <= 122 milliseconds
+99.64% <= 123 milliseconds
+99.64% <= 124 milliseconds
+99.64% <= 130 milliseconds
+99.65% <= 131 milliseconds
+99.65% <= 132 milliseconds
+99.65% <= 135 milliseconds
+99.66% <= 136 milliseconds
+99.67% <= 137 milliseconds
+99.67% <= 138 milliseconds
+99.68% <= 139 milliseconds
+99.68% <= 140 milliseconds
+99.69% <= 141 milliseconds
+99.70% <= 142 milliseconds
+99.70% <= 143 milliseconds
+99.71% <= 145 milliseconds
+99.71% <= 146 milliseconds
+99.71% <= 147 milliseconds
+99.72% <= 148 milliseconds
+99.73% <= 149 milliseconds
+99.73% <= 150 milliseconds
+99.74% <= 151 milliseconds
+99.75% <= 152 milliseconds
+99.75% <= 155 milliseconds
+99.76% <= 156 milliseconds
+99.76% <= 157 milliseconds
+99.76% <= 159 milliseconds
+99.76% <= 163 milliseconds
+99.77% <= 165 milliseconds
+99.77% <= 166 milliseconds
+99.77% <= 173 milliseconds
+99.77% <= 174 milliseconds
+99.77% <= 175 milliseconds
+99.77% <= 176 milliseconds
+99.78% <= 177 milliseconds
+99.78% <= 178 milliseconds
+99.79% <= 181 milliseconds
+99.79% <= 182 milliseconds
+99.80% <= 183 milliseconds
+99.81% <= 184 milliseconds
+99.81% <= 185 milliseconds
+99.83% <= 186 milliseconds
+99.83% <= 188 milliseconds
+99.83% <= 189 milliseconds
+99.83% <= 192 milliseconds
+99.84% <= 193 milliseconds
+99.84% <= 196 milliseconds
+99.84% <= 197 milliseconds
+99.85% <= 199 milliseconds
+99.85% <= 200 milliseconds
+99.86% <= 201 milliseconds
+99.86% <= 202 milliseconds
+99.86% <= 204 milliseconds
+99.86% <= 205 milliseconds
+99.86% <= 207 milliseconds
+99.86% <= 208 milliseconds
+99.86% <= 209 milliseconds
+99.87% <= 213 milliseconds
+99.87% <= 214 milliseconds
+99.87% <= 215 milliseconds
+99.87% <= 217 milliseconds
+99.88% <= 221 milliseconds
+99.89% <= 222 milliseconds
+99.91% <= 223 milliseconds
+99.92% <= 225 milliseconds
+99.92% <= 226 milliseconds
+99.94% <= 228 milliseconds
+99.94% <= 229 milliseconds
+99.94% <= 248 milliseconds
+99.94% <= 251 milliseconds
+99.95% <= 254 milliseconds
+99.95% <= 255 milliseconds
+99.95% <= 265 milliseconds
+99.96% <= 274 milliseconds
+99.96% <= 282 milliseconds
+99.96% <= 285 milliseconds
+99.96% <= 310 milliseconds
+99.96% <= 313 milliseconds
+99.96% <= 314 milliseconds
+99.96% <= 315 milliseconds
+99.96% <= 322 milliseconds
+99.96% <= 332 milliseconds
+99.96% <= 333 milliseconds
+99.97% <= 413 milliseconds
+99.97% <= 449 milliseconds
+99.97% <= 456 milliseconds
+99.97% <= 457 milliseconds
+99.97% <= 464 milliseconds
+99.97% <= 471 milliseconds
+99.97% <= 488 milliseconds
+99.98% <= 520 milliseconds
+99.98% <= 532 milliseconds
+99.98% <= 536 milliseconds
+99.98% <= 661 milliseconds
+99.98% <= 664 milliseconds
+99.98% <= 665 milliseconds
+99.98% <= 687 milliseconds
+99.99% <= 689 milliseconds
+99.99% <= 692 milliseconds
+99.99% <= 713 milliseconds
+99.99% <= 714 milliseconds
+99.99% <= 717 milliseconds
+99.99% <= 741 milliseconds
+99.99% <= 755 milliseconds
+99.99% <= 776 milliseconds
+99.99% <= 790 milliseconds
+100.00% <= 811 milliseconds
+100.00% <= 836 milliseconds
+100.00% <= 838 milliseconds
+100.00% <= 839 milliseconds
+100.00% <= 839 milliseconds
+4125.58 requests per second
+
+LRANGE_300 (first 300 elements): 1666.67LRANGE_300 (first 300 elements): 1775.73LRANGE_300 (first 300 elements): 1934.82LRANGE_300 (first 300 elements): 2014.77LRANGE_300 (first 300 elements): 1900.89LRANGE_300 (first 300 elements): 1978.26LRANGE_300 (first 300 elements): 1978.53LRANGE_300 (first 300 elements): 2003.72LRANGE_300 (first 300 elements): 1923.47LRANGE_300 (first 300 elements): 1893.74LRANGE_300 (first 300 elements): 1901.94LRANGE_300 (first 300 elements): 1944.98LRANGE_300 (first 300 elements): 1983.13LRANGE_300 (first 300 elements): 2006.49LRANGE_300 (first 300 elements): 1987.37LRANGE_300 (first 300 elements): 1965.07LRANGE_300 (first 300 elements): 1922.80LRANGE_300 (first 300 elements): 1874.86LRANGE_300 (first 300 elements): 1831.04LRANGE_300 (first 300 elements): 1810.05LRANGE_300 (first 300 elements): 1815.78LRANGE_300 (first 300 elements): 1829.07LRANGE_300 (first 300 elements): 1866.82LRANGE_300 (first 300 elements): 1886.01LRANGE_300 (first 300 elements): 1920.70LRANGE_300 (first 300 elements): 1954.57LRANGE_300 (first 300 elements): 1989.18LRANGE_300 (first 300 elements): 2014.62LRANGE_300 (first 300 elements): 2040.39LRANGE_300 (first 300 elements): 2062.79LRANGE_300 (first 300 elements): 2061.39LRANGE_300 (first 300 elements): 2064.38LRANGE_300 (first 300 elements): 2061.91LRANGE_300 (first 300 elements): 2056.74LRANGE_300 (first 300 elements): 2058.33LRANGE_300 (first 300 elements): 2061.18LRANGE_300 (first 300 elements): 2069.45LRANGE_300 (first 300 elements): 2074.30LRANGE_300 (first 300 elements): 2084.69LRANGE_300 (first 300 elements): 2073.67LRANGE_300 (first 300 elements): 2088.78LRANGE_300 (first 300 elements): 2102.98LRANGE_300 (first 300 elements): 2114.35LRANGE_300 (first 300 elements): 2098.53LRANGE_300 (first 300 elements): 2080.20LRANGE_300 (first 300 elements): 2074.15LRANGE_300 (first 300 elements): 2076.32LRANGE_300 (first 300 elements): 2075.90LRANGE_300 (first 300 elements): 2070.06LRANGE_300 (first 300 elements): 2068.57LRANGE_300 (first 300 elements): 2077.07LRANGE_300 (first 300 elements): 2086.97LRANGE_300 (first 300 elements): 2080.60LRANGE_300 (first 300 elements): 2071.50LRANGE_300 (first 300 elements): 2082.05LRANGE_300 (first 300 elements): 2096.10LRANGE_300 (first 300 elements): 2108.52LRANGE_300 (first 300 elements): 2116.21LRANGE_300 (first 300 elements): 2124.26LRANGE_300 (first 300 elements): 2134.71LRANGE_300 (first 300 elements): 2147.33LRANGE_300 (first 300 elements): 2156.82LRANGE_300 (first 300 elements): 2164.21LRANGE_300 (first 300 elements): 2176.39LRANGE_300 (first 300 elements): 2182.32LRANGE_300 (first 300 elements): 2195.50LRANGE_300 (first 300 elements): 2201.38LRANGE_300 (first 300 elements): 2209.64LRANGE_300 (first 300 elements): 2218.00LRANGE_300 (first 300 elements): 2218.89LRANGE_300 (first 300 elements): 2222.40LRANGE_300 (first 300 elements): 2230.07LRANGE_300 (first 300 elements): 2234.44LRANGE_300 (first 300 elements): 2240.70LRANGE_300 (first 300 elements): 2245.83LRANGE_300 (first 300 elements): 2250.45LRANGE_300 (first 300 elements): 2260.90LRANGE_300 (first 300 elements): 2250.28LRANGE_300 (first 300 elements): 2234.90LRANGE_300 (first 300 elements): 2219.54LRANGE_300 (first 300 elements): 2202.83LRANGE_300 (first 300 elements): 2189.90LRANGE_300 (first 300 elements): 2172.22LRANGE_300 (first 300 elements): 2163.27LRANGE_300 (first 300 elements): 2152.27LRANGE_300 (first 300 elements): 2137.56LRANGE_300 (first 300 elements): 2122.36LRANGE_300 (first 300 elements): 2117.54LRANGE_300 (first 300 elements): 2118.25LRANGE_300 (first 300 elements): 2118.89LRANGE_300 (first 300 elements): 2115.06LRANGE_300 (first 300 elements): 2115.81LRANGE_300 (first 300 elements): 2117.36LRANGE_300 (first 300 elements): 2117.26LRANGE_300 (first 300 elements): 2115.85LRANGE_300 (first 300 elements): 2113.60LRANGE_300 (first 300 elements): 2113.62LRANGE_300 (first 300 elements): 2111.31LRANGE_300 (first 300 elements): 2110.18LRANGE_300 (first 300 elements): 2109.80LRANGE_300 (first 300 elements): 2109.30LRANGE_300 (first 300 elements): 2108.78LRANGE_300 (first 300 elements): 2108.38LRANGE_300 (first 300 elements): 2107.68LRANGE_300 (first 300 elements): 2108.18LRANGE_300 (first 300 elements): 2108.78LRANGE_300 (first 300 elements): 2107.84LRANGE_300 (first 300 elements): 2104.98LRANGE_300 (first 300 elements): 2106.52LRANGE_300 (first 300 elements): 2103.14LRANGE_300 (first 300 elements): 2102.10LRANGE_300 (first 300 elements): 2102.04LRANGE_300 (first 300 elements): 2102.84LRANGE_300 (first 300 elements): 2101.55LRANGE_300 (first 300 elements): 2103.00LRANGE_300 (first 300 elements): 2102.46LRANGE_300 (first 300 elements): 2102.40LRANGE_300 (first 300 elements): 2103.09LRANGE_300 (first 300 elements): 2102.80LRANGE_300 (first 300 elements): 2103.21LRANGE_300 (first 300 elements): 2101.49LRANGE_300 (first 300 elements): 2101.28LRANGE_300 (first 300 elements): 2095.63LRANGE_300 (first 300 elements): 2096.12LRANGE_300 (first 300 elements): 2095.93LRANGE_300 (first 300 elements): 2095.83LRANGE_300 (first 300 elements): 2098.09LRANGE_300 (first 300 elements): 2100.09LRANGE_300 (first 300 elements): 2099.56LRANGE_300 (first 300 elements): 2104.28LRANGE_300 (first 300 elements): 2107.98LRANGE_300 (first 300 elements): 2110.65LRANGE_300 (first 300 elements): 2114.15LRANGE_300 (first 300 elements): 2116.46LRANGE_300 (first 300 elements): 2118.00LRANGE_300 (first 300 elements): 2120.87LRANGE_300 (first 300 elements): 2123.79LRANGE_300 (first 300 elements): 2127.10LRANGE_300 (first 300 elements): 2131.28LRANGE_300 (first 300 elements): 2134.00LRANGE_300 (first 300 elements): 2137.91LRANGE_300 (first 300 elements): 2142.74LRANGE_300 (first 300 elements): 2146.77LRANGE_300 (first 300 elements): 2137.63LRANGE_300 (first 300 elements): 2129.85LRANGE_300 (first 300 elements): 2121.88LRANGE_300 (first 300 elements): 2113.47LRANGE_300 (first 300 elements): 2107.59LRANGE_300 (first 300 elements): 2100.55LRANGE_300 (first 300 elements): 2098.06LRANGE_300 (first 300 elements): 2097.39LRANGE_300 (first 300 elements): 2093.82LRANGE_300 (first 300 elements): 2097.21LRANGE_300 (first 300 elements): 2092.96LRANGE_300 (first 300 elements): 2089.31LRANGE_300 (first 300 elements): 2084.05LRANGE_300 (first 300 elements): 2084.96LRANGE_300 (first 300 elements): 2082.44LRANGE_300 (first 300 elements): 2079.91LRANGE_300 (first 300 elements): 2076.76LRANGE_300 (first 300 elements): 2076.43LRANGE_300 (first 300 elements): 2076.97LRANGE_300 (first 300 elements): 2072.64LRANGE_300 (first 300 elements): 2074.93LRANGE_300 (first 300 elements): 2073.34LRANGE_300 (first 300 elements): 2075.57LRANGE_300 (first 300 elements): 2074.11LRANGE_300 (first 300 elements): 2075.41LRANGE_300 (first 300 elements): 2071.86LRANGE_300 (first 300 elements): 2067.95LRANGE_300 (first 300 elements): 2067.16LRANGE_300 (first 300 elements): 2064.97LRANGE_300 (first 300 elements): 2063.16LRANGE_300 (first 300 elements): 2064.16LRANGE_300 (first 300 elements): 2066.74LRANGE_300 (first 300 elements): 2072.16LRANGE_300 (first 300 elements): 2077.38LRANGE_300 (first 300 elements): 2082.57LRANGE_300 (first 300 elements): 2082.19LRANGE_300 (first 300 elements): 2087.42LRANGE_300 (first 300 elements): 2092.16LRANGE_300 (first 300 elements): 2097.44LRANGE_300 (first 300 elements): 2102.11LRANGE_300 (first 300 elements): 2106.84LRANGE_300 (first 300 elements): 2107.25LRANGE_300 (first 300 elements): 2111.83LRANGE_300 (first 300 elements): 2114.72LRANGE_300 (first 300 elements): 2117.98====== LRANGE_300 (first 300 elements) ======
+  100000 requests completed in 47.18 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 2 milliseconds
+0.00% <= 3 milliseconds
+0.04% <= 4 milliseconds
+0.10% <= 5 milliseconds
+0.20% <= 6 milliseconds
+0.47% <= 7 milliseconds
+0.94% <= 8 milliseconds
+1.85% <= 9 milliseconds
+3.50% <= 10 milliseconds
+6.07% <= 11 milliseconds
+9.58% <= 12 milliseconds
+14.05% <= 13 milliseconds
+19.27% <= 14 milliseconds
+25.01% <= 15 milliseconds
+30.86% <= 16 milliseconds
+36.67% <= 17 milliseconds
+42.12% <= 18 milliseconds
+47.29% <= 19 milliseconds
+52.08% <= 20 milliseconds
+56.58% <= 21 milliseconds
+60.69% <= 22 milliseconds
+64.53% <= 23 milliseconds
+68.00% <= 24 milliseconds
+71.15% <= 25 milliseconds
+74.03% <= 26 milliseconds
+76.66% <= 27 milliseconds
+79.03% <= 28 milliseconds
+81.10% <= 29 milliseconds
+82.93% <= 30 milliseconds
+84.62% <= 31 milliseconds
+86.06% <= 32 milliseconds
+87.33% <= 33 milliseconds
+88.45% <= 34 milliseconds
+89.43% <= 35 milliseconds
+90.26% <= 36 milliseconds
+91.03% <= 37 milliseconds
+91.75% <= 38 milliseconds
+92.44% <= 39 milliseconds
+93.01% <= 40 milliseconds
+93.58% <= 41 milliseconds
+94.07% <= 42 milliseconds
+94.49% <= 43 milliseconds
+94.89% <= 44 milliseconds
+95.25% <= 45 milliseconds
+95.60% <= 46 milliseconds
+95.93% <= 47 milliseconds
+96.23% <= 48 milliseconds
+96.48% <= 49 milliseconds
+96.71% <= 50 milliseconds
+96.94% <= 51 milliseconds
+97.11% <= 52 milliseconds
+97.29% <= 53 milliseconds
+97.44% <= 54 milliseconds
+97.60% <= 55 milliseconds
+97.75% <= 56 milliseconds
+97.90% <= 57 milliseconds
+98.03% <= 58 milliseconds
+98.15% <= 59 milliseconds
+98.25% <= 60 milliseconds
+98.35% <= 61 milliseconds
+98.44% <= 62 milliseconds
+98.52% <= 63 milliseconds
+98.59% <= 64 milliseconds
+98.65% <= 65 milliseconds
+98.73% <= 66 milliseconds
+98.79% <= 67 milliseconds
+98.84% <= 68 milliseconds
+98.89% <= 69 milliseconds
+98.95% <= 70 milliseconds
+99.00% <= 71 milliseconds
+99.06% <= 72 milliseconds
+99.11% <= 73 milliseconds
+99.15% <= 74 milliseconds
+99.19% <= 75 milliseconds
+99.22% <= 76 milliseconds
+99.25% <= 77 milliseconds
+99.27% <= 78 milliseconds
+99.29% <= 79 milliseconds
+99.31% <= 80 milliseconds
+99.32% <= 81 milliseconds
+99.34% <= 82 milliseconds
+99.36% <= 83 milliseconds
+99.37% <= 84 milliseconds
+99.39% <= 85 milliseconds
+99.41% <= 86 milliseconds
+99.43% <= 87 milliseconds
+99.44% <= 88 milliseconds
+99.46% <= 89 milliseconds
+99.47% <= 90 milliseconds
+99.49% <= 91 milliseconds
+99.51% <= 92 milliseconds
+99.52% <= 93 milliseconds
+99.53% <= 94 milliseconds
+99.55% <= 95 milliseconds
+99.56% <= 96 milliseconds
+99.57% <= 97 milliseconds
+99.59% <= 98 milliseconds
+99.60% <= 99 milliseconds
+99.61% <= 100 milliseconds
+99.63% <= 101 milliseconds
+99.64% <= 102 milliseconds
+99.65% <= 103 milliseconds
+99.66% <= 104 milliseconds
+99.66% <= 105 milliseconds
+99.67% <= 106 milliseconds
+99.68% <= 107 milliseconds
+99.69% <= 108 milliseconds
+99.71% <= 109 milliseconds
+99.71% <= 110 milliseconds
+99.72% <= 111 milliseconds
+99.74% <= 112 milliseconds
+99.74% <= 113 milliseconds
+99.74% <= 114 milliseconds
+99.75% <= 115 milliseconds
+99.76% <= 116 milliseconds
+99.77% <= 117 milliseconds
+99.77% <= 118 milliseconds
+99.78% <= 119 milliseconds
+99.78% <= 120 milliseconds
+99.78% <= 122 milliseconds
+99.78% <= 124 milliseconds
+99.78% <= 125 milliseconds
+99.79% <= 126 milliseconds
+99.79% <= 127 milliseconds
+99.80% <= 128 milliseconds
+99.81% <= 129 milliseconds
+99.81% <= 130 milliseconds
+99.82% <= 131 milliseconds
+99.82% <= 133 milliseconds
+99.83% <= 134 milliseconds
+99.83% <= 135 milliseconds
+99.83% <= 136 milliseconds
+99.83% <= 137 milliseconds
+99.84% <= 138 milliseconds
+99.84% <= 139 milliseconds
+99.84% <= 142 milliseconds
+99.85% <= 143 milliseconds
+99.85% <= 144 milliseconds
+99.85% <= 145 milliseconds
+99.86% <= 146 milliseconds
+99.86% <= 147 milliseconds
+99.86% <= 148 milliseconds
+99.87% <= 149 milliseconds
+99.87% <= 150 milliseconds
+99.87% <= 151 milliseconds
+99.88% <= 152 milliseconds
+99.88% <= 153 milliseconds
+99.88% <= 154 milliseconds
+99.88% <= 155 milliseconds
+99.89% <= 159 milliseconds
+99.89% <= 160 milliseconds
+99.89% <= 163 milliseconds
+99.89% <= 164 milliseconds
+99.90% <= 165 milliseconds
+99.90% <= 168 milliseconds
+99.90% <= 170 milliseconds
+99.90% <= 173 milliseconds
+99.90% <= 174 milliseconds
+99.90% <= 175 milliseconds
+99.90% <= 178 milliseconds
+99.91% <= 181 milliseconds
+99.91% <= 185 milliseconds
+99.91% <= 190 milliseconds
+99.91% <= 193 milliseconds
+99.91% <= 201 milliseconds
+99.91% <= 226 milliseconds
+99.91% <= 241 milliseconds
+99.92% <= 250 milliseconds
+99.92% <= 294 milliseconds
+99.92% <= 297 milliseconds
+99.92% <= 306 milliseconds
+99.92% <= 309 milliseconds
+99.92% <= 310 milliseconds
+99.92% <= 311 milliseconds
+99.92% <= 312 milliseconds
+99.93% <= 317 milliseconds
+99.93% <= 318 milliseconds
+99.93% <= 321 milliseconds
+99.93% <= 322 milliseconds
+99.93% <= 323 milliseconds
+99.93% <= 327 milliseconds
+99.94% <= 331 milliseconds
+99.94% <= 332 milliseconds
+99.94% <= 337 milliseconds
+99.94% <= 338 milliseconds
+99.94% <= 341 milliseconds
+99.94% <= 343 milliseconds
+99.94% <= 345 milliseconds
+99.94% <= 346 milliseconds
+99.94% <= 347 milliseconds
+99.95% <= 354 milliseconds
+99.95% <= 355 milliseconds
+99.95% <= 357 milliseconds
+99.95% <= 360 milliseconds
+99.95% <= 362 milliseconds
+99.95% <= 365 milliseconds
+99.95% <= 369 milliseconds
+99.95% <= 372 milliseconds
+99.96% <= 374 milliseconds
+99.96% <= 379 milliseconds
+99.96% <= 380 milliseconds
+99.96% <= 381 milliseconds
+99.96% <= 382 milliseconds
+99.96% <= 383 milliseconds
+99.96% <= 386 milliseconds
+99.97% <= 388 milliseconds
+99.97% <= 394 milliseconds
+99.97% <= 401 milliseconds
+99.97% <= 404 milliseconds
+99.97% <= 412 milliseconds
+99.97% <= 416 milliseconds
+99.97% <= 432 milliseconds
+99.97% <= 445 milliseconds
+99.98% <= 447 milliseconds
+99.98% <= 448 milliseconds
+99.98% <= 449 milliseconds
+99.98% <= 451 milliseconds
+99.98% <= 455 milliseconds
+99.98% <= 457 milliseconds
+99.99% <= 458 milliseconds
+99.99% <= 459 milliseconds
+99.99% <= 460 milliseconds
+99.99% <= 461 milliseconds
+99.99% <= 462 milliseconds
+100.00% <= 468 milliseconds
+100.00% <= 470 milliseconds
+100.00% <= 472 milliseconds
+100.00% <= 478 milliseconds
+100.00% <= 494 milliseconds
+2119.54 requests per second
+
+LRANGE_500 (first 450 elements): 1285.71LRANGE_500 (first 450 elements): 1530.08LRANGE_500 (first 450 elements): 1833.33LRANGE_500 (first 450 elements): 1879.90LRANGE_500 (first 450 elements): 1864.17LRANGE_500 (first 450 elements): 1870.56LRANGE_500 (first 450 elements): 1905.80LRANGE_500 (first 450 elements): 1907.86LRANGE_500 (first 450 elements): 1916.38LRANGE_500 (first 450 elements): 1947.16LRANGE_500 (first 450 elements): 1953.99LRANGE_500 (first 450 elements): 1959.22LRANGE_500 (first 450 elements): 1963.26LRANGE_500 (first 450 elements): 1973.10LRANGE_500 (first 450 elements): 1968.60LRANGE_500 (first 450 elements): 1991.55LRANGE_500 (first 450 elements): 1985.39LRANGE_500 (first 450 elements): 1975.29LRANGE_500 (first 450 elements): 1960.56LRANGE_500 (first 450 elements): 1918.98LRANGE_500 (first 450 elements): 1919.63LRANGE_500 (first 450 elements): 1920.02LRANGE_500 (first 450 elements): 1932.66LRANGE_500 (first 450 elements): 1939.20LRANGE_500 (first 450 elements): 1949.66LRANGE_500 (first 450 elements): 1962.48LRANGE_500 (first 450 elements): 1960.70LRANGE_500 (first 450 elements): 1968.63LRANGE_500 (first 450 elements): 1982.67LRANGE_500 (first 450 elements): 1985.46LRANGE_500 (first 450 elements): 1992.97LRANGE_500 (first 450 elements): 2004.36LRANGE_500 (first 450 elements): 1989.55LRANGE_500 (first 450 elements): 1998.43LRANGE_500 (first 450 elements): 2004.68LRANGE_500 (first 450 elements): 2014.33LRANGE_500 (first 450 elements): 2020.13LRANGE_500 (first 450 elements): 2026.05LRANGE_500 (first 450 elements): 2032.70LRANGE_500 (first 450 elements): 2022.06LRANGE_500 (first 450 elements): 2013.15LRANGE_500 (first 450 elements): 1982.71LRANGE_500 (first 450 elements): 1955.14LRANGE_500 (first 450 elements): 1950.53LRANGE_500 (first 450 elements): 1953.10LRANGE_500 (first 450 elements): 1954.41LRANGE_500 (first 450 elements): 1956.26LRANGE_500 (first 450 elements): 1956.26LRANGE_500 (first 450 elements): 1951.60LRANGE_500 (first 450 elements): 1942.61LRANGE_500 (first 450 elements): 1938.75LRANGE_500 (first 450 elements): 1942.13LRANGE_500 (first 450 elements): 1941.94LRANGE_500 (first 450 elements): 1945.06LRANGE_500 (first 450 elements): 1945.49LRANGE_500 (first 450 elements): 1950.02LRANGE_500 (first 450 elements): 1956.75LRANGE_500 (first 450 elements): 1956.66LRANGE_500 (first 450 elements): 1960.98LRANGE_500 (first 450 elements): 1965.29LRANGE_500 (first 450 elements): 1964.53LRANGE_500 (first 450 elements): 1967.60LRANGE_500 (first 450 elements): 1966.58LRANGE_500 (first 450 elements): 1967.49LRANGE_500 (first 450 elements): 1968.01LRANGE_500 (first 450 elements): 1970.96LRANGE_500 (first 450 elements): 1974.41LRANGE_500 (first 450 elements): 1974.49LRANGE_500 (first 450 elements): 1977.15LRANGE_500 (first 450 elements): 1974.14LRANGE_500 (first 450 elements): 1977.06LRANGE_500 (first 450 elements): 1980.19LRANGE_500 (first 450 elements): 1981.02LRANGE_500 (first 450 elements): 1980.62LRANGE_500 (first 450 elements): 1981.42LRANGE_500 (first 450 elements): 1982.41LRANGE_500 (first 450 elements): 1978.55LRANGE_500 (first 450 elements): 1974.54LRANGE_500 (first 450 elements): 1969.85LRANGE_500 (first 450 elements): 1968.77LRANGE_500 (first 450 elements): 1968.12LRANGE_500 (first 450 elements): 1964.43LRANGE_500 (first 450 elements): 1966.56LRANGE_500 (first 450 elements): 1965.76LRANGE_500 (first 450 elements): 1969.59LRANGE_500 (first 450 elements): 1964.51LRANGE_500 (first 450 elements): 1965.66LRANGE_500 (first 450 elements): 1965.69LRANGE_500 (first 450 elements): 1965.40LRANGE_500 (first 450 elements): 1967.98LRANGE_500 (first 450 elements): 1970.24LRANGE_500 (first 450 elements): 1971.75LRANGE_500 (first 450 elements): 1969.59LRANGE_500 (first 450 elements): 1967.61LRANGE_500 (first 450 elements): 1969.44LRANGE_500 (first 450 elements): 1971.61LRANGE_500 (first 450 elements): 1967.01LRANGE_500 (first 450 elements): 1962.09LRANGE_500 (first 450 elements): 1960.85LRANGE_500 (first 450 elements): 1958.71LRANGE_500 (first 450 elements): 1958.16LRANGE_500 (first 450 elements): 1957.47LRANGE_500 (first 450 elements): 1954.57LRANGE_500 (first 450 elements): 1955.78LRANGE_500 (first 450 elements): 1955.71LRANGE_500 (first 450 elements): 1957.76LRANGE_500 (first 450 elements): 1959.25LRANGE_500 (first 450 elements): 1960.97LRANGE_500 (first 450 elements): 1961.81LRANGE_500 (first 450 elements): 1964.46LRANGE_500 (first 450 elements): 1966.01LRANGE_500 (first 450 elements): 1968.22LRANGE_500 (first 450 elements): 1969.57LRANGE_500 (first 450 elements): 1972.17LRANGE_500 (first 450 elements): 1974.58LRANGE_500 (first 450 elements): 1972.83LRANGE_500 (first 450 elements): 1971.38LRANGE_500 (first 450 elements): 1970.12LRANGE_500 (first 450 elements): 1966.99LRANGE_500 (first 450 elements): 1950.39LRANGE_500 (first 450 elements): 1938.78LRANGE_500 (first 450 elements): 1927.86LRANGE_500 (first 450 elements): 1913.36LRANGE_500 (first 450 elements): 1904.38LRANGE_500 (first 450 elements): 1891.49LRANGE_500 (first 450 elements): 1888.95LRANGE_500 (first 450 elements): 1875.94LRANGE_500 (first 450 elements): 1869.25LRANGE_500 (first 450 elements): 1858.49LRANGE_500 (first 450 elements): 1850.39LRANGE_500 (first 450 elements): 1836.37LRANGE_500 (first 450 elements): 1835.16LRANGE_500 (first 450 elements): 1822.30LRANGE_500 (first 450 elements): 1818.55LRANGE_500 (first 450 elements): 1805.76LRANGE_500 (first 450 elements): 1802.94LRANGE_500 (first 450 elements): 1791.19LRANGE_500 (first 450 elements): 1790.96LRANGE_500 (first 450 elements): 1781.84LRANGE_500 (first 450 elements): 1778.13LRANGE_500 (first 450 elements): 1769.48LRANGE_500 (first 450 elements): 1765.86LRANGE_500 (first 450 elements): 1758.16LRANGE_500 (first 450 elements): 1751.76LRANGE_500 (first 450 elements): 1745.02LRANGE_500 (first 450 elements): 1738.69LRANGE_500 (first 450 elements): 1733.44LRANGE_500 (first 450 elements): 1728.51LRANGE_500 (first 450 elements): 1726.30LRANGE_500 (first 450 elements): 1724.60LRANGE_500 (first 450 elements): 1723.48LRANGE_500 (first 450 elements): 1715.95LRANGE_500 (first 450 elements): 1713.63LRANGE_500 (first 450 elements): 1711.98LRANGE_500 (first 450 elements): 1712.16LRANGE_500 (first 450 elements): 1703.57LRANGE_500 (first 450 elements): 1703.60LRANGE_500 (first 450 elements): 1700.76LRANGE_500 (first 450 elements): 1701.04LRANGE_500 (first 450 elements): 1697.03LRANGE_500 (first 450 elements): 1698.80LRANGE_500 (first 450 elements): 1699.97LRANGE_500 (first 450 elements): 1700.56LRANGE_500 (first 450 elements): 1702.17LRANGE_500 (first 450 elements): 1705.39LRANGE_500 (first 450 elements): 1706.80LRANGE_500 (first 450 elements): 1706.83LRANGE_500 (first 450 elements): 1707.14LRANGE_500 (first 450 elements): 1707.25LRANGE_500 (first 450 elements): 1706.83LRANGE_500 (first 450 elements): 1710.47LRANGE_500 (first 450 elements): 1712.99LRANGE_500 (first 450 elements): 1716.83LRANGE_500 (first 450 elements): 1720.03LRANGE_500 (first 450 elements): 1723.28LRANGE_500 (first 450 elements): 1725.65LRANGE_500 (first 450 elements): 1728.88LRANGE_500 (first 450 elements): 1730.65LRANGE_500 (first 450 elements): 1734.06LRANGE_500 (first 450 elements): 1736.66LRANGE_500 (first 450 elements): 1738.31LRANGE_500 (first 450 elements): 1741.87LRANGE_500 (first 450 elements): 1744.68LRANGE_500 (first 450 elements): 1747.70LRANGE_500 (first 450 elements): 1750.28LRANGE_500 (first 450 elements): 1752.23LRANGE_500 (first 450 elements): 1754.93LRANGE_500 (first 450 elements): 1757.13LRANGE_500 (first 450 elements): 1759.44LRANGE_500 (first 450 elements): 1759.97LRANGE_500 (first 450 elements): 1760.69LRANGE_500 (first 450 elements): 1761.77LRANGE_500 (first 450 elements): 1761.95LRANGE_500 (first 450 elements): 1763.40LRANGE_500 (first 450 elements): 1763.75LRANGE_500 (first 450 elements): 1765.17LRANGE_500 (first 450 elements): 1766.18LRANGE_500 (first 450 elements): 1766.82LRANGE_500 (first 450 elements): 1767.95LRANGE_500 (first 450 elements): 1768.59LRANGE_500 (first 450 elements): 1770.04LRANGE_500 (first 450 elements): 1771.76LRANGE_500 (first 450 elements): 1773.67LRANGE_500 (first 450 elements): 1774.94LRANGE_500 (first 450 elements): 1776.08LRANGE_500 (first 450 elements): 1776.09LRANGE_500 (first 450 elements): 1772.85LRANGE_500 (first 450 elements): 1770.26LRANGE_500 (first 450 elements): 1771.23LRANGE_500 (first 450 elements): 1772.65LRANGE_500 (first 450 elements): 1772.86LRANGE_500 (first 450 elements): 1772.72LRANGE_500 (first 450 elements): 1772.24LRANGE_500 (first 450 elements): 1772.47LRANGE_500 (first 450 elements): 1771.46LRANGE_500 (first 450 elements): 1772.15LRANGE_500 (first 450 elements): 1773.55LRANGE_500 (first 450 elements): 1772.74LRANGE_500 (first 450 elements): 1769.82LRANGE_500 (first 450 elements): 1767.93LRANGE_500 (first 450 elements): 1767.32LRANGE_500 (first 450 elements): 1767.23LRANGE_500 (first 450 elements): 1768.15LRANGE_500 (first 450 elements): 1768.30LRANGE_500 (first 450 elements): 1768.46====== LRANGE_500 (first 450 elements) ======
+  100000 requests completed in 56.51 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 2 milliseconds
+0.00% <= 3 milliseconds
+0.02% <= 4 milliseconds
+0.06% <= 5 milliseconds
+0.16% <= 6 milliseconds
+0.33% <= 7 milliseconds
+0.64% <= 8 milliseconds
+1.09% <= 9 milliseconds
+1.70% <= 10 milliseconds
+2.66% <= 11 milliseconds
+3.98% <= 12 milliseconds
+5.83% <= 13 milliseconds
+8.20% <= 14 milliseconds
+11.35% <= 15 milliseconds
+15.24% <= 16 milliseconds
+19.96% <= 17 milliseconds
+25.35% <= 18 milliseconds
+31.15% <= 19 milliseconds
+37.17% <= 20 milliseconds
+43.26% <= 21 milliseconds
+49.14% <= 22 milliseconds
+54.78% <= 23 milliseconds
+60.10% <= 24 milliseconds
+64.97% <= 25 milliseconds
+69.33% <= 26 milliseconds
+73.18% <= 27 milliseconds
+76.49% <= 28 milliseconds
+79.44% <= 29 milliseconds
+82.11% <= 30 milliseconds
+84.34% <= 31 milliseconds
+86.18% <= 32 milliseconds
+87.72% <= 33 milliseconds
+89.05% <= 34 milliseconds
+90.22% <= 35 milliseconds
+91.18% <= 36 milliseconds
+92.04% <= 37 milliseconds
+92.75% <= 38 milliseconds
+93.40% <= 39 milliseconds
+93.89% <= 40 milliseconds
+94.34% <= 41 milliseconds
+94.77% <= 42 milliseconds
+95.16% <= 43 milliseconds
+95.55% <= 44 milliseconds
+95.88% <= 45 milliseconds
+96.18% <= 46 milliseconds
+96.43% <= 47 milliseconds
+96.65% <= 48 milliseconds
+96.85% <= 49 milliseconds
+97.03% <= 50 milliseconds
+97.19% <= 51 milliseconds
+97.35% <= 52 milliseconds
+97.49% <= 53 milliseconds
+97.62% <= 54 milliseconds
+97.72% <= 55 milliseconds
+97.80% <= 56 milliseconds
+97.90% <= 57 milliseconds
+98.00% <= 58 milliseconds
+98.11% <= 59 milliseconds
+98.21% <= 60 milliseconds
+98.27% <= 61 milliseconds
+98.33% <= 62 milliseconds
+98.39% <= 63 milliseconds
+98.44% <= 64 milliseconds
+98.49% <= 65 milliseconds
+98.54% <= 66 milliseconds
+98.57% <= 67 milliseconds
+98.59% <= 68 milliseconds
+98.61% <= 69 milliseconds
+98.64% <= 70 milliseconds
+98.66% <= 71 milliseconds
+98.69% <= 72 milliseconds
+98.72% <= 73 milliseconds
+98.74% <= 74 milliseconds
+98.76% <= 75 milliseconds
+98.78% <= 76 milliseconds
+98.81% <= 77 milliseconds
+98.82% <= 78 milliseconds
+98.84% <= 79 milliseconds
+98.85% <= 80 milliseconds
+98.87% <= 81 milliseconds
+98.88% <= 82 milliseconds
+98.89% <= 83 milliseconds
+98.89% <= 84 milliseconds
+98.90% <= 85 milliseconds
+98.91% <= 86 milliseconds
+98.92% <= 87 milliseconds
+98.93% <= 88 milliseconds
+98.94% <= 89 milliseconds
+98.96% <= 90 milliseconds
+98.97% <= 91 milliseconds
+98.97% <= 92 milliseconds
+98.98% <= 93 milliseconds
+98.99% <= 94 milliseconds
+98.99% <= 95 milliseconds
+99.00% <= 96 milliseconds
+99.00% <= 97 milliseconds
+99.01% <= 98 milliseconds
+99.02% <= 99 milliseconds
+99.03% <= 100 milliseconds
+99.04% <= 101 milliseconds
+99.06% <= 102 milliseconds
+99.06% <= 103 milliseconds
+99.07% <= 104 milliseconds
+99.08% <= 105 milliseconds
+99.10% <= 106 milliseconds
+99.11% <= 107 milliseconds
+99.11% <= 108 milliseconds
+99.11% <= 109 milliseconds
+99.12% <= 110 milliseconds
+99.13% <= 111 milliseconds
+99.14% <= 112 milliseconds
+99.15% <= 113 milliseconds
+99.15% <= 114 milliseconds
+99.16% <= 115 milliseconds
+99.17% <= 116 milliseconds
+99.18% <= 117 milliseconds
+99.18% <= 118 milliseconds
+99.18% <= 119 milliseconds
+99.19% <= 120 milliseconds
+99.21% <= 121 milliseconds
+99.21% <= 122 milliseconds
+99.22% <= 123 milliseconds
+99.22% <= 124 milliseconds
+99.23% <= 125 milliseconds
+99.23% <= 126 milliseconds
+99.24% <= 127 milliseconds
+99.24% <= 128 milliseconds
+99.25% <= 129 milliseconds
+99.25% <= 130 milliseconds
+99.25% <= 131 milliseconds
+99.25% <= 133 milliseconds
+99.26% <= 134 milliseconds
+99.26% <= 137 milliseconds
+99.26% <= 138 milliseconds
+99.26% <= 139 milliseconds
+99.27% <= 140 milliseconds
+99.27% <= 141 milliseconds
+99.27% <= 142 milliseconds
+99.27% <= 143 milliseconds
+99.28% <= 144 milliseconds
+99.29% <= 145 milliseconds
+99.31% <= 146 milliseconds
+99.31% <= 147 milliseconds
+99.32% <= 148 milliseconds
+99.32% <= 149 milliseconds
+99.32% <= 150 milliseconds
+99.32% <= 151 milliseconds
+99.33% <= 152 milliseconds
+99.34% <= 153 milliseconds
+99.34% <= 157 milliseconds
+99.35% <= 163 milliseconds
+99.35% <= 168 milliseconds
+99.35% <= 181 milliseconds
+99.35% <= 227 milliseconds
+99.35% <= 228 milliseconds
+99.36% <= 229 milliseconds
+99.36% <= 231 milliseconds
+99.37% <= 232 milliseconds
+99.38% <= 233 milliseconds
+99.39% <= 234 milliseconds
+99.41% <= 235 milliseconds
+99.42% <= 236 milliseconds
+99.43% <= 237 milliseconds
+99.44% <= 238 milliseconds
+99.46% <= 239 milliseconds
+99.48% <= 240 milliseconds
+99.50% <= 241 milliseconds
+99.52% <= 242 milliseconds
+99.55% <= 243 milliseconds
+99.56% <= 244 milliseconds
+99.57% <= 245 milliseconds
+99.58% <= 246 milliseconds
+99.61% <= 247 milliseconds
+99.61% <= 248 milliseconds
+99.62% <= 249 milliseconds
+99.63% <= 250 milliseconds
+99.63% <= 251 milliseconds
+99.64% <= 252 milliseconds
+99.64% <= 253 milliseconds
+99.65% <= 254 milliseconds
+99.65% <= 255 milliseconds
+99.66% <= 256 milliseconds
+99.66% <= 257 milliseconds
+99.67% <= 261 milliseconds
+99.67% <= 263 milliseconds
+99.67% <= 264 milliseconds
+99.68% <= 265 milliseconds
+99.69% <= 266 milliseconds
+99.69% <= 267 milliseconds
+99.70% <= 268 milliseconds
+99.70% <= 269 milliseconds
+99.70% <= 270 milliseconds
+99.71% <= 271 milliseconds
+99.71% <= 272 milliseconds
+99.71% <= 273 milliseconds
+99.71% <= 274 milliseconds
+99.71% <= 275 milliseconds
+99.72% <= 276 milliseconds
+99.72% <= 277 milliseconds
+99.72% <= 278 milliseconds
+99.73% <= 279 milliseconds
+99.73% <= 280 milliseconds
+99.73% <= 281 milliseconds
+99.74% <= 283 milliseconds
+99.74% <= 284 milliseconds
+99.74% <= 285 milliseconds
+99.74% <= 288 milliseconds
+99.74% <= 289 milliseconds
+99.74% <= 290 milliseconds
+99.74% <= 291 milliseconds
+99.75% <= 292 milliseconds
+99.75% <= 293 milliseconds
+99.75% <= 294 milliseconds
+99.75% <= 296 milliseconds
+99.76% <= 297 milliseconds
+99.76% <= 298 milliseconds
+99.77% <= 299 milliseconds
+99.77% <= 300 milliseconds
+99.78% <= 301 milliseconds
+99.78% <= 302 milliseconds
+99.79% <= 303 milliseconds
+99.79% <= 304 milliseconds
+99.79% <= 305 milliseconds
+99.80% <= 306 milliseconds
+99.81% <= 307 milliseconds
+99.82% <= 308 milliseconds
+99.83% <= 309 milliseconds
+99.84% <= 310 milliseconds
+99.85% <= 311 milliseconds
+99.85% <= 312 milliseconds
+99.86% <= 315 milliseconds
+99.86% <= 316 milliseconds
+99.86% <= 317 milliseconds
+99.86% <= 318 milliseconds
+99.86% <= 319 milliseconds
+99.87% <= 320 milliseconds
+99.87% <= 321 milliseconds
+99.87% <= 322 milliseconds
+99.87% <= 323 milliseconds
+99.87% <= 324 milliseconds
+99.87% <= 329 milliseconds
+99.87% <= 330 milliseconds
+99.88% <= 331 milliseconds
+99.88% <= 332 milliseconds
+99.88% <= 333 milliseconds
+99.88% <= 334 milliseconds
+99.88% <= 335 milliseconds
+99.89% <= 336 milliseconds
+99.89% <= 337 milliseconds
+99.89% <= 338 milliseconds
+99.90% <= 339 milliseconds
+99.90% <= 340 milliseconds
+99.90% <= 342 milliseconds
+99.90% <= 343 milliseconds
+99.91% <= 345 milliseconds
+99.91% <= 348 milliseconds
+99.91% <= 350 milliseconds
+99.91% <= 351 milliseconds
+99.91% <= 352 milliseconds
+99.92% <= 354 milliseconds
+99.92% <= 356 milliseconds
+99.92% <= 363 milliseconds
+99.92% <= 366 milliseconds
+99.92% <= 368 milliseconds
+99.92% <= 371 milliseconds
+99.92% <= 376 milliseconds
+99.93% <= 395 milliseconds
+99.93% <= 396 milliseconds
+99.93% <= 403 milliseconds
+99.93% <= 404 milliseconds
+99.93% <= 405 milliseconds
+99.93% <= 422 milliseconds
+99.93% <= 431 milliseconds
+99.94% <= 433 milliseconds
+99.94% <= 434 milliseconds
+99.94% <= 435 milliseconds
+99.94% <= 436 milliseconds
+99.94% <= 437 milliseconds
+99.95% <= 438 milliseconds
+99.95% <= 439 milliseconds
+99.95% <= 440 milliseconds
+99.95% <= 441 milliseconds
+99.96% <= 442 milliseconds
+99.96% <= 443 milliseconds
+99.96% <= 444 milliseconds
+99.96% <= 456 milliseconds
+99.96% <= 457 milliseconds
+99.96% <= 465 milliseconds
+99.96% <= 473 milliseconds
+99.96% <= 482 milliseconds
+99.97% <= 571 milliseconds
+99.97% <= 787 milliseconds
+99.97% <= 956 milliseconds
+99.97% <= 959 milliseconds
+99.98% <= 960 milliseconds
+99.98% <= 961 milliseconds
+99.99% <= 962 milliseconds
+99.99% <= 987 milliseconds
+99.99% <= 988 milliseconds
+100.00% <= 993 milliseconds
+100.00% <= 2925 milliseconds
+100.00% <= 2962 milliseconds
+100.00% <= 2963 milliseconds
+100.00% <= 6104 milliseconds
+1769.44 requests per second
+
+LRANGE_600 (first 600 elements): nanLRANGE_600 (first 600 elements): 1496.00LRANGE_600 (first 600 elements): 1514.00LRANGE_600 (first 600 elements): 1514.67LRANGE_600 (first 600 elements): 1491.00LRANGE_600 (first 600 elements): 1459.20LRANGE_600 (first 600 elements): 1464.67LRANGE_600 (first 600 elements): 1486.29LRANGE_600 (first 600 elements): 1471.50LRANGE_600 (first 600 elements): 1464.24LRANGE_600 (first 600 elements): 1447.24LRANGE_600 (first 600 elements): 1456.03LRANGE_600 (first 600 elements): 1470.35LRANGE_600 (first 600 elements): 1474.48LRANGE_600 (first 600 elements): 1494.00LRANGE_600 (first 600 elements): 1485.34LRANGE_600 (first 600 elements): 1491.75LRANGE_600 (first 600 elements): 1490.83LRANGE_600 (first 600 elements): 1488.79LRANGE_600 (first 600 elements): 1498.21LRANGE_600 (first 600 elements): 1497.10LRANGE_600 (first 600 elements): 1498.00LRANGE_600 (first 600 elements): 1505.09LRANGE_600 (first 600 elements): 1515.81LRANGE_600 (first 600 elements): 1524.81LRANGE_600 (first 600 elements): 1524.78LRANGE_600 (first 600 elements): 1523.36LRANGE_600 (first 600 elements): 1529.90LRANGE_600 (first 600 elements): 1536.54LRANGE_600 (first 600 elements): 1549.20LRANGE_600 (first 600 elements): 1550.09LRANGE_600 (first 600 elements): 1558.33LRANGE_600 (first 600 elements): 1564.76LRANGE_600 (first 600 elements): 1562.55LRANGE_600 (first 600 elements): 1566.94LRANGE_600 (first 600 elements): 1571.54LRANGE_600 (first 600 elements): 1575.60LRANGE_600 (first 600 elements): 1575.01LRANGE_600 (first 600 elements): 1573.56LRANGE_600 (first 600 elements): 1567.58LRANGE_600 (first 600 elements): 1567.09LRANGE_600 (first 600 elements): 1563.31LRANGE_600 (first 600 elements): 1564.63LRANGE_600 (first 600 elements): 1564.66LRANGE_600 (first 600 elements): 1563.19LRANGE_600 (first 600 elements): 1565.23LRANGE_600 (first 600 elements): 1562.98LRANGE_600 (first 600 elements): 1537.65LRANGE_600 (first 600 elements): 1512.43LRANGE_600 (first 600 elements): 1487.50LRANGE_600 (first 600 elements): 1471.07LRANGE_600 (first 600 elements): 1451.25LRANGE_600 (first 600 elements): 1434.58LRANGE_600 (first 600 elements): 1430.24LRANGE_600 (first 600 elements): 1429.47LRANGE_600 (first 600 elements): 1433.80LRANGE_600 (first 600 elements): 1420.69LRANGE_600 (first 600 elements): 1407.00LRANGE_600 (first 600 elements): 1395.60LRANGE_600 (first 600 elements): 1389.45LRANGE_600 (first 600 elements): 1390.73LRANGE_600 (first 600 elements): 1389.26LRANGE_600 (first 600 elements): 1386.14LRANGE_600 (first 600 elements): 1379.64LRANGE_600 (first 600 elements): 1371.91LRANGE_600 (first 600 elements): 1369.89LRANGE_600 (first 600 elements): 1369.50LRANGE_600 (first 600 elements): 1362.21LRANGE_600 (first 600 elements): 1364.05LRANGE_600 (first 600 elements): 1356.42LRANGE_600 (first 600 elements): 1360.46LRANGE_600 (first 600 elements): 1363.15LRANGE_600 (first 600 elements): 1365.21LRANGE_600 (first 600 elements): 1362.99LRANGE_600 (first 600 elements): 1364.66LRANGE_600 (first 600 elements): 1369.36LRANGE_600 (first 600 elements): 1368.20LRANGE_600 (first 600 elements): 1367.33LRANGE_600 (first 600 elements): 1366.78LRANGE_600 (first 600 elements): 1367.45LRANGE_600 (first 600 elements): 1369.78LRANGE_600 (first 600 elements): 1368.46LRANGE_600 (first 600 elements): 1366.64LRANGE_600 (first 600 elements): 1368.58LRANGE_600 (first 600 elements): 1373.04LRANGE_600 (first 600 elements): 1371.36LRANGE_600 (first 600 elements): 1364.42LRANGE_600 (first 600 elements): 1355.61LRANGE_600 (first 600 elements): 1345.91LRANGE_600 (first 600 elements): 1339.98LRANGE_600 (first 600 elements): 1337.22LRANGE_600 (first 600 elements): 1330.91LRANGE_600 (first 600 elements): 1327.84LRANGE_600 (first 600 elements): 1327.72LRANGE_600 (first 600 elements): 1326.66LRANGE_600 (first 600 elements): 1326.67LRANGE_600 (first 600 elements): 1325.64LRANGE_600 (first 600 elements): 1327.10LRANGE_600 (first 600 elements): 1329.06LRANGE_600 (first 600 elements): 1330.38LRANGE_600 (first 600 elements): 1333.43LRANGE_600 (first 600 elements): 1328.04LRANGE_600 (first 600 elements): 1324.00LRANGE_600 (first 600 elements): 1327.53LRANGE_600 (first 600 elements): 1331.44LRANGE_600 (first 600 elements): 1333.42LRANGE_600 (first 600 elements): 1333.48LRANGE_600 (first 600 elements): 1336.27LRANGE_600 (first 600 elements): 1338.82LRANGE_600 (first 600 elements): 1341.66LRANGE_600 (first 600 elements): 1343.24LRANGE_600 (first 600 elements): 1347.08LRANGE_600 (first 600 elements): 1347.27LRANGE_600 (first 600 elements): 1350.37LRANGE_600 (first 600 elements): 1354.51LRANGE_600 (first 600 elements): 1358.08LRANGE_600 (first 600 elements): 1360.71LRANGE_600 (first 600 elements): 1363.22LRANGE_600 (first 600 elements): 1366.58LRANGE_600 (first 600 elements): 1368.16LRANGE_600 (first 600 elements): 1371.25LRANGE_600 (first 600 elements): 1374.67LRANGE_600 (first 600 elements): 1376.32LRANGE_600 (first 600 elements): 1378.58LRANGE_600 (first 600 elements): 1381.28LRANGE_600 (first 600 elements): 1384.23LRANGE_600 (first 600 elements): 1385.72LRANGE_600 (first 600 elements): 1387.87LRANGE_600 (first 600 elements): 1391.11LRANGE_600 (first 600 elements): 1392.79LRANGE_600 (first 600 elements): 1395.02LRANGE_600 (first 600 elements): 1397.97LRANGE_600 (first 600 elements): 1400.21LRANGE_600 (first 600 elements): 1401.62LRANGE_600 (first 600 elements): 1403.00LRANGE_600 (first 600 elements): 1404.03LRANGE_600 (first 600 elements): 1406.72LRANGE_600 (first 600 elements): 1409.93LRANGE_600 (first 600 elements): 1411.88LRANGE_600 (first 600 elements): 1413.00LRANGE_600 (first 600 elements): 1414.15LRANGE_600 (first 600 elements): 1415.22LRANGE_600 (first 600 elements): 1416.15LRANGE_600 (first 600 elements): 1417.52LRANGE_600 (first 600 elements): 1420.47LRANGE_600 (first 600 elements): 1422.37LRANGE_600 (first 600 elements): 1425.19LRANGE_600 (first 600 elements): 1428.22LRANGE_600 (first 600 elements): 1430.43LRANGE_600 (first 600 elements): 1433.33LRANGE_600 (first 600 elements): 1435.76LRANGE_600 (first 600 elements): 1437.17LRANGE_600 (first 600 elements): 1437.94LRANGE_600 (first 600 elements): 1440.43LRANGE_600 (first 600 elements): 1442.37LRANGE_600 (first 600 elements): 1442.95LRANGE_600 (first 600 elements): 1443.54LRANGE_600 (first 600 elements): 1444.38LRANGE_600 (first 600 elements): 1445.04LRANGE_600 (first 600 elements): 1446.01LRANGE_600 (first 600 elements): 1447.94LRANGE_600 (first 600 elements): 1449.62LRANGE_600 (first 600 elements): 1449.41LRANGE_600 (first 600 elements): 1448.70LRANGE_600 (first 600 elements): 1449.69LRANGE_600 (first 600 elements): 1449.63LRANGE_600 (first 600 elements): 1449.21LRANGE_600 (first 600 elements): 1447.52LRANGE_600 (first 600 elements): 1445.38LRANGE_600 (first 600 elements): 1444.92LRANGE_600 (first 600 elements): 1444.80LRANGE_600 (first 600 elements): 1444.79LRANGE_600 (first 600 elements): 1445.94LRANGE_600 (first 600 elements): 1447.15LRANGE_600 (first 600 elements): 1448.99LRANGE_600 (first 600 elements): 1450.58LRANGE_600 (first 600 elements): 1450.72LRANGE_600 (first 600 elements): 1452.01LRANGE_600 (first 600 elements): 1452.48LRANGE_600 (first 600 elements): 1453.78LRANGE_600 (first 600 elements): 1455.97LRANGE_600 (first 600 elements): 1454.05LRANGE_600 (first 600 elements): 1454.20LRANGE_600 (first 600 elements): 1455.32LRANGE_600 (first 600 elements): 1457.07LRANGE_600 (first 600 elements): 1459.28LRANGE_600 (first 600 elements): 1461.41LRANGE_600 (first 600 elements): 1463.15LRANGE_600 (first 600 elements): 1465.10LRANGE_600 (first 600 elements): 1466.21LRANGE_600 (first 600 elements): 1468.22LRANGE_600 (first 600 elements): 1469.28LRANGE_600 (first 600 elements): 1470.52LRANGE_600 (first 600 elements): 1471.50LRANGE_600 (first 600 elements): 1473.51LRANGE_600 (first 600 elements): 1474.81LRANGE_600 (first 600 elements): 1474.63LRANGE_600 (first 600 elements): 1475.27LRANGE_600 (first 600 elements): 1475.01LRANGE_600 (first 600 elements): 1474.17LRANGE_600 (first 600 elements): 1473.29LRANGE_600 (first 600 elements): 1472.15LRANGE_600 (first 600 elements): 1470.68LRANGE_600 (first 600 elements): 1470.37LRANGE_600 (first 600 elements): 1469.15LRANGE_600 (first 600 elements): 1469.26LRANGE_600 (first 600 elements): 1468.65LRANGE_600 (first 600 elements): 1466.96LRANGE_600 (first 600 elements): 1466.20LRANGE_600 (first 600 elements): 1464.07LRANGE_600 (first 600 elements): 1462.15LRANGE_600 (first 600 elements): 1461.22LRANGE_600 (first 600 elements): 1460.19LRANGE_600 (first 600 elements): 1459.29LRANGE_600 (first 600 elements): 1457.48LRANGE_600 (first 600 elements): 1457.14LRANGE_600 (first 600 elements): 1456.86LRANGE_600 (first 600 elements): 1456.86LRANGE_600 (first 600 elements): 1455.76LRANGE_600 (first 600 elements): 1454.51LRANGE_600 (first 600 elements): 1454.50LRANGE_600 (first 600 elements): 1454.43LRANGE_600 (first 600 elements): 1454.41LRANGE_600 (first 600 elements): 1453.59LRANGE_600 (first 600 elements): 1452.61LRANGE_600 (first 600 elements): 1451.08LRANGE_600 (first 600 elements): 1450.56LRANGE_600 (first 600 elements): 1449.88LRANGE_600 (first 600 elements): 1447.23LRANGE_600 (first 600 elements): 1444.69LRANGE_600 (first 600 elements): 1443.08LRANGE_600 (first 600 elements): 1440.63LRANGE_600 (first 600 elements): 1440.29LRANGE_600 (first 600 elements): 1439.35LRANGE_600 (first 600 elements): 1437.42LRANGE_600 (first 600 elements): 1436.07LRANGE_600 (first 600 elements): 1435.11LRANGE_600 (first 600 elements): 1434.31LRANGE_600 (first 600 elements): 1433.97LRANGE_600 (first 600 elements): 1432.96LRANGE_600 (first 600 elements): 1432.16LRANGE_600 (first 600 elements): 1428.98LRANGE_600 (first 600 elements): 1427.02LRANGE_600 (first 600 elements): 1426.12LRANGE_600 (first 600 elements): 1424.95LRANGE_600 (first 600 elements): 1422.95LRANGE_600 (first 600 elements): 1422.32LRANGE_600 (first 600 elements): 1421.60LRANGE_600 (first 600 elements): 1421.11LRANGE_600 (first 600 elements): 1420.12LRANGE_600 (first 600 elements): 1418.54LRANGE_600 (first 600 elements): 1417.84LRANGE_600 (first 600 elements): 1416.82LRANGE_600 (first 600 elements): 1415.44LRANGE_600 (first 600 elements): 1412.11LRANGE_600 (first 600 elements): 1408.72LRANGE_600 (first 600 elements): 1404.26LRANGE_600 (first 600 elements): 1400.18LRANGE_600 (first 600 elements): 1396.81LRANGE_600 (first 600 elements): 1395.16LRANGE_600 (first 600 elements): 1392.75LRANGE_600 (first 600 elements): 1389.88LRANGE_600 (first 600 elements): 1386.49LRANGE_600 (first 600 elements): 1383.75LRANGE_600 (first 600 elements): 1381.14LRANGE_600 (first 600 elements): 1378.61LRANGE_600 (first 600 elements): 1375.98LRANGE_600 (first 600 elements): 1373.26LRANGE_600 (first 600 elements): 1371.03LRANGE_600 (first 600 elements): 1369.89LRANGE_600 (first 600 elements): 1369.32LRANGE_600 (first 600 elements): 1367.83LRANGE_600 (first 600 elements): 1365.98LRANGE_600 (first 600 elements): 1362.93LRANGE_600 (first 600 elements): 1359.98LRANGE_600 (first 600 elements): 1356.51LRANGE_600 (first 600 elements): 1352.05LRANGE_600 (first 600 elements): 1347.88LRANGE_600 (first 600 elements): 1344.60LRANGE_600 (first 600 elements): 1340.62LRANGE_600 (first 600 elements): 1337.31LRANGE_600 (first 600 elements): 1334.93LRANGE_600 (first 600 elements): 1332.42LRANGE_600 (first 600 elements): 1329.85LRANGE_600 (first 600 elements): 1327.35LRANGE_600 (first 600 elements): 1324.40LRANGE_600 (first 600 elements): 1322.13LRANGE_600 (first 600 elements): 1320.11LRANGE_600 (first 600 elements): 1317.99LRANGE_600 (first 600 elements): 1316.03LRANGE_600 (first 600 elements): 1313.68LRANGE_600 (first 600 elements): 1309.85LRANGE_600 (first 600 elements): 1306.05LRANGE_600 (first 600 elements): 1304.02LRANGE_600 (first 600 elements): 1302.61LRANGE_600 (first 600 elements): 1302.23LRANGE_600 (first 600 elements): 1302.34LRANGE_600 (first 600 elements): 1302.96LRANGE_600 (first 600 elements): 1303.95LRANGE_600 (first 600 elements): 1304.77LRANGE_600 (first 600 elements): 1305.54LRANGE_600 (first 600 elements): 1305.01LRANGE_600 (first 600 elements): 1304.12LRANGE_600 (first 600 elements): 1303.63LRANGE_600 (first 600 elements): 1304.37LRANGE_600 (first 600 elements): 1305.79====== LRANGE_600 (first 600 elements) ======
+  100000 requests completed in 76.58 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 2 milliseconds
+0.00% <= 3 milliseconds
+0.01% <= 4 milliseconds
+0.03% <= 5 milliseconds
+0.05% <= 6 milliseconds
+0.07% <= 7 milliseconds
+0.12% <= 8 milliseconds
+0.21% <= 9 milliseconds
+0.34% <= 10 milliseconds
+0.54% <= 11 milliseconds
+0.85% <= 12 milliseconds
+1.29% <= 13 milliseconds
+1.91% <= 14 milliseconds
+2.69% <= 15 milliseconds
+3.71% <= 16 milliseconds
+4.95% <= 17 milliseconds
+6.45% <= 18 milliseconds
+8.27% <= 19 milliseconds
+10.41% <= 20 milliseconds
+12.91% <= 21 milliseconds
+15.89% <= 22 milliseconds
+19.13% <= 23 milliseconds
+22.81% <= 24 milliseconds
+26.62% <= 25 milliseconds
+30.68% <= 26 milliseconds
+34.78% <= 27 milliseconds
+38.81% <= 28 milliseconds
+42.81% <= 29 milliseconds
+46.65% <= 30 milliseconds
+50.32% <= 31 milliseconds
+53.83% <= 32 milliseconds
+57.08% <= 33 milliseconds
+60.12% <= 34 milliseconds
+62.94% <= 35 milliseconds
+65.53% <= 36 milliseconds
+67.98% <= 37 milliseconds
+70.24% <= 38 milliseconds
+72.38% <= 39 milliseconds
+74.35% <= 40 milliseconds
+76.26% <= 41 milliseconds
+77.93% <= 42 milliseconds
+79.36% <= 43 milliseconds
+80.69% <= 44 milliseconds
+81.90% <= 45 milliseconds
+82.99% <= 46 milliseconds
+84.05% <= 47 milliseconds
+84.98% <= 48 milliseconds
+85.84% <= 49 milliseconds
+86.62% <= 50 milliseconds
+87.35% <= 51 milliseconds
+88.01% <= 52 milliseconds
+88.67% <= 53 milliseconds
+89.21% <= 54 milliseconds
+89.71% <= 55 milliseconds
+90.20% <= 56 milliseconds
+90.62% <= 57 milliseconds
+91.02% <= 58 milliseconds
+91.39% <= 59 milliseconds
+91.75% <= 60 milliseconds
+92.07% <= 61 milliseconds
+92.38% <= 62 milliseconds
+92.68% <= 63 milliseconds
+92.96% <= 64 milliseconds
+93.23% <= 65 milliseconds
+93.47% <= 66 milliseconds
+93.70% <= 67 milliseconds
+93.96% <= 68 milliseconds
+94.18% <= 69 milliseconds
+94.42% <= 70 milliseconds
+94.63% <= 71 milliseconds
+94.83% <= 72 milliseconds
+95.04% <= 73 milliseconds
+95.22% <= 74 milliseconds
+95.39% <= 75 milliseconds
+95.55% <= 76 milliseconds
+95.71% <= 77 milliseconds
+95.87% <= 78 milliseconds
+96.00% <= 79 milliseconds
+96.13% <= 80 milliseconds
+96.28% <= 81 milliseconds
+96.42% <= 82 milliseconds
+96.54% <= 83 milliseconds
+96.64% <= 84 milliseconds
+96.75% <= 85 milliseconds
+96.86% <= 86 milliseconds
+96.99% <= 87 milliseconds
+97.09% <= 88 milliseconds
+97.18% <= 89 milliseconds
+97.26% <= 90 milliseconds
+97.34% <= 91 milliseconds
+97.42% <= 92 milliseconds
+97.52% <= 93 milliseconds
+97.59% <= 94 milliseconds
+97.67% <= 95 milliseconds
+97.76% <= 96 milliseconds
+97.84% <= 97 milliseconds
+97.93% <= 98 milliseconds
+98.01% <= 99 milliseconds
+98.09% <= 100 milliseconds
+98.18% <= 101 milliseconds
+98.25% <= 102 milliseconds
+98.33% <= 103 milliseconds
+98.40% <= 104 milliseconds
+98.45% <= 105 milliseconds
+98.51% <= 106 milliseconds
+98.56% <= 107 milliseconds
+98.61% <= 108 milliseconds
+98.65% <= 109 milliseconds
+98.70% <= 110 milliseconds
+98.75% <= 111 milliseconds
+98.78% <= 112 milliseconds
+98.81% <= 113 milliseconds
+98.83% <= 114 milliseconds
+98.85% <= 115 milliseconds
+98.89% <= 116 milliseconds
+98.92% <= 117 milliseconds
+98.94% <= 118 milliseconds
+98.97% <= 119 milliseconds
+98.99% <= 120 milliseconds
+99.02% <= 121 milliseconds
+99.05% <= 122 milliseconds
+99.07% <= 123 milliseconds
+99.09% <= 124 milliseconds
+99.11% <= 125 milliseconds
+99.13% <= 126 milliseconds
+99.15% <= 127 milliseconds
+99.16% <= 128 milliseconds
+99.18% <= 129 milliseconds
+99.19% <= 130 milliseconds
+99.21% <= 131 milliseconds
+99.22% <= 132 milliseconds
+99.23% <= 133 milliseconds
+99.25% <= 134 milliseconds
+99.27% <= 135 milliseconds
+99.29% <= 136 milliseconds
+99.30% <= 137 milliseconds
+99.31% <= 138 milliseconds
+99.32% <= 139 milliseconds
+99.34% <= 140 milliseconds
+99.36% <= 141 milliseconds
+99.37% <= 142 milliseconds
+99.38% <= 143 milliseconds
+99.39% <= 144 milliseconds
+99.39% <= 145 milliseconds
+99.40% <= 146 milliseconds
+99.40% <= 147 milliseconds
+99.42% <= 148 milliseconds
+99.43% <= 149 milliseconds
+99.43% <= 150 milliseconds
+99.44% <= 151 milliseconds
+99.45% <= 152 milliseconds
+99.47% <= 153 milliseconds
+99.48% <= 154 milliseconds
+99.49% <= 155 milliseconds
+99.49% <= 156 milliseconds
+99.50% <= 157 milliseconds
+99.50% <= 158 milliseconds
+99.51% <= 159 milliseconds
+99.51% <= 160 milliseconds
+99.53% <= 161 milliseconds
+99.54% <= 162 milliseconds
+99.55% <= 163 milliseconds
+99.56% <= 164 milliseconds
+99.56% <= 165 milliseconds
+99.58% <= 166 milliseconds
+99.59% <= 167 milliseconds
+99.59% <= 168 milliseconds
+99.61% <= 169 milliseconds
+99.62% <= 170 milliseconds
+99.63% <= 171 milliseconds
+99.64% <= 172 milliseconds
+99.65% <= 173 milliseconds
+99.66% <= 174 milliseconds
+99.66% <= 175 milliseconds
+99.67% <= 176 milliseconds
+99.67% <= 177 milliseconds
+99.68% <= 178 milliseconds
+99.68% <= 179 milliseconds
+99.69% <= 180 milliseconds
+99.69% <= 181 milliseconds
+99.69% <= 182 milliseconds
+99.70% <= 183 milliseconds
+99.70% <= 184 milliseconds
+99.70% <= 185 milliseconds
+99.71% <= 186 milliseconds
+99.71% <= 187 milliseconds
+99.71% <= 188 milliseconds
+99.71% <= 189 milliseconds
+99.72% <= 190 milliseconds
+99.72% <= 191 milliseconds
+99.73% <= 192 milliseconds
+99.73% <= 193 milliseconds
+99.74% <= 194 milliseconds
+99.74% <= 195 milliseconds
+99.75% <= 196 milliseconds
+99.75% <= 197 milliseconds
+99.76% <= 198 milliseconds
+99.76% <= 199 milliseconds
+99.77% <= 200 milliseconds
+99.77% <= 201 milliseconds
+99.78% <= 202 milliseconds
+99.79% <= 203 milliseconds
+99.79% <= 204 milliseconds
+99.79% <= 205 milliseconds
+99.79% <= 206 milliseconds
+99.79% <= 207 milliseconds
+99.80% <= 208 milliseconds
+99.80% <= 209 milliseconds
+99.80% <= 210 milliseconds
+99.80% <= 211 milliseconds
+99.81% <= 212 milliseconds
+99.81% <= 213 milliseconds
+99.81% <= 215 milliseconds
+99.81% <= 216 milliseconds
+99.81% <= 218 milliseconds
+99.81% <= 222 milliseconds
+99.81% <= 223 milliseconds
+99.82% <= 224 milliseconds
+99.82% <= 225 milliseconds
+99.82% <= 226 milliseconds
+99.82% <= 227 milliseconds
+99.82% <= 228 milliseconds
+99.83% <= 229 milliseconds
+99.83% <= 230 milliseconds
+99.83% <= 231 milliseconds
+99.83% <= 232 milliseconds
+99.83% <= 233 milliseconds
+99.84% <= 234 milliseconds
+99.84% <= 235 milliseconds
+99.84% <= 236 milliseconds
+99.84% <= 237 milliseconds
+99.84% <= 239 milliseconds
+99.85% <= 240 milliseconds
+99.85% <= 241 milliseconds
+99.85% <= 242 milliseconds
+99.85% <= 243 milliseconds
+99.85% <= 245 milliseconds
+99.86% <= 246 milliseconds
+99.86% <= 247 milliseconds
+99.86% <= 248 milliseconds
+99.86% <= 252 milliseconds
+99.86% <= 256 milliseconds
+99.87% <= 258 milliseconds
+99.87% <= 259 milliseconds
+99.87% <= 261 milliseconds
+99.87% <= 263 milliseconds
+99.88% <= 264 milliseconds
+99.88% <= 265 milliseconds
+99.88% <= 267 milliseconds
+99.88% <= 269 milliseconds
+99.88% <= 271 milliseconds
+99.88% <= 272 milliseconds
+99.89% <= 273 milliseconds
+99.89% <= 274 milliseconds
+99.89% <= 275 milliseconds
+99.89% <= 276 milliseconds
+99.89% <= 277 milliseconds
+99.90% <= 278 milliseconds
+99.90% <= 280 milliseconds
+99.90% <= 283 milliseconds
+99.90% <= 284 milliseconds
+99.90% <= 285 milliseconds
+99.90% <= 286 milliseconds
+99.91% <= 288 milliseconds
+99.91% <= 291 milliseconds
+99.91% <= 292 milliseconds
+99.91% <= 294 milliseconds
+99.91% <= 299 milliseconds
+99.91% <= 300 milliseconds
+99.91% <= 302 milliseconds
+99.92% <= 304 milliseconds
+99.92% <= 306 milliseconds
+99.92% <= 307 milliseconds
+99.92% <= 309 milliseconds
+99.92% <= 310 milliseconds
+99.92% <= 311 milliseconds
+99.93% <= 312 milliseconds
+99.93% <= 314 milliseconds
+99.93% <= 320 milliseconds
+99.93% <= 321 milliseconds
+99.93% <= 322 milliseconds
+99.93% <= 324 milliseconds
+99.93% <= 325 milliseconds
+99.94% <= 326 milliseconds
+99.94% <= 328 milliseconds
+99.94% <= 330 milliseconds
+99.94% <= 331 milliseconds
+99.94% <= 332 milliseconds
+99.95% <= 334 milliseconds
+99.95% <= 335 milliseconds
+99.95% <= 337 milliseconds
+99.95% <= 338 milliseconds
+99.95% <= 339 milliseconds
+99.95% <= 342 milliseconds
+99.95% <= 365 milliseconds
+99.96% <= 367 milliseconds
+99.96% <= 368 milliseconds
+99.96% <= 370 milliseconds
+99.96% <= 372 milliseconds
+99.96% <= 376 milliseconds
+99.96% <= 399 milliseconds
+99.96% <= 401 milliseconds
+99.96% <= 403 milliseconds
+99.96% <= 404 milliseconds
+99.97% <= 405 milliseconds
+99.97% <= 406 milliseconds
+99.97% <= 413 milliseconds
+99.97% <= 419 milliseconds
+99.97% <= 422 milliseconds
+99.97% <= 423 milliseconds
+99.97% <= 425 milliseconds
+99.98% <= 429 milliseconds
+99.98% <= 439 milliseconds
+99.98% <= 440 milliseconds
+99.98% <= 441 milliseconds
+99.98% <= 458 milliseconds
+99.98% <= 459 milliseconds
+99.99% <= 461 milliseconds
+99.99% <= 462 milliseconds
+99.99% <= 466 milliseconds
+99.99% <= 512 milliseconds
+99.99% <= 519 milliseconds
+99.99% <= 644 milliseconds
+99.99% <= 681 milliseconds
+99.99% <= 684 milliseconds
+100.00% <= 858 milliseconds
+100.00% <= 1100 milliseconds
+100.00% <= 1106 milliseconds
+100.00% <= 1109 milliseconds
+100.00% <= 1131 milliseconds
+100.00% <= 1426 milliseconds
+1305.86 requests per second
+
+MSET (10 keys): 6181.82MSET (10 keys): 7107.53MSET (10 keys): 6897.11MSET (10 keys): 5773.20MSET (10 keys): 4585.93MSET (10 keys): 3842.18MSET (10 keys): 3407.00MSET (10 keys): 3168.09MSET (10 keys): 3020.64MSET (10 keys): 2913.13MSET (10 keys): 2842.39MSET (10 keys): 2796.74MSET (10 keys): 2767.32MSET (10 keys): 2716.99MSET (10 keys): 2708.20MSET (10 keys): 2707.74MSET (10 keys): 2718.15MSET (10 keys): 2706.77MSET (10 keys): 2715.73MSET (10 keys): 2704.50MSET (10 keys): 2679.96MSET (10 keys): 2615.77MSET (10 keys): 2572.74MSET (10 keys): 2641.95MSET (10 keys): 2598.73MSET (10 keys): 2594.78MSET (10 keys): 2702.89MSET (10 keys): 2853.21MSET (10 keys): 2943.45MSET (10 keys): 3081.27MSET (10 keys): 3168.43MSET (10 keys): 3207.17MSET (10 keys): 3322.53MSET (10 keys): 3418.03MSET (10 keys): 3530.70MSET (10 keys): 3602.88MSET (10 keys): 3707.73MSET (10 keys): 3805.83MSET (10 keys): 3893.89MSET (10 keys): 3966.67MSET (10 keys): 4040.78MSET (10 keys): 4125.54MSET (10 keys): 4175.71MSET (10 keys): 4162.85MSET (10 keys): 4199.27MSET (10 keys): 4269.33MSET (10 keys): 4321.78MSET (10 keys): 4360.04MSET (10 keys): 4403.88MSET (10 keys): 4441.04MSET (10 keys): 4481.71MSET (10 keys): 4509.26MSET (10 keys): 4564.90MSET (10 keys): 4526.88MSET (10 keys): 4448.06MSET (10 keys): 4383.58MSET (10 keys): 4332.96MSET (10 keys): 4300.44MSET (10 keys): 4259.43MSET (10 keys): 4227.72MSET (10 keys): 4239.33MSET (10 keys): 4216.83MSET (10 keys): 4181.38MSET (10 keys): 4152.96MSET (10 keys): 4147.56MSET (10 keys): 4146.90MSET (10 keys): 4139.05MSET (10 keys): 4135.64MSET (10 keys): 4119.73MSET (10 keys): 4067.53MSET (10 keys): 4047.65MSET (10 keys): 4042.62MSET (10 keys): 4047.01MSET (10 keys): 4033.72MSET (10 keys): 4044.27MSET (10 keys): 4061.00MSET (10 keys): 4057.10MSET (10 keys): 4075.31MSET (10 keys): 4095.13MSET (10 keys): 4104.84MSET (10 keys): 4100.41MSET (10 keys): 4125.90MSET (10 keys): 4166.63MSET (10 keys): 4194.34MSET (10 keys): 4228.28MSET (10 keys): 4252.12MSET (10 keys): 4281.33MSET (10 keys): 4313.07MSET (10 keys): 4353.03MSET (10 keys): 4374.13====== MSET (10 keys) ======
+  100000 requests completed in 22.77 seconds
+  50 parallel clients
+  3 bytes payload
+  keep alive: 1
+
+0.00% <= 1 milliseconds
+0.02% <= 2 milliseconds
+0.33% <= 3 milliseconds
+4.75% <= 4 milliseconds
+20.89% <= 5 milliseconds
+38.32% <= 6 milliseconds
+50.30% <= 7 milliseconds
+59.49% <= 8 milliseconds
+65.14% <= 9 milliseconds
+69.59% <= 10 milliseconds
+73.36% <= 11 milliseconds
+76.07% <= 12 milliseconds
+78.90% <= 13 milliseconds
+81.16% <= 14 milliseconds
+82.98% <= 15 milliseconds
+84.48% <= 16 milliseconds
+85.86% <= 17 milliseconds
+87.05% <= 18 milliseconds
+88.14% <= 19 milliseconds
+88.98% <= 20 milliseconds
+89.72% <= 21 milliseconds
+90.35% <= 22 milliseconds
+90.97% <= 23 milliseconds
+91.63% <= 24 milliseconds
+92.17% <= 25 milliseconds
+92.78% <= 26 milliseconds
+93.33% <= 27 milliseconds
+93.81% <= 28 milliseconds
+94.39% <= 29 milliseconds
+94.80% <= 30 milliseconds
+95.22% <= 31 milliseconds
+95.52% <= 32 milliseconds
+95.77% <= 33 milliseconds
+96.09% <= 34 milliseconds
+96.39% <= 35 milliseconds
+96.62% <= 36 milliseconds
+96.84% <= 37 milliseconds
+97.11% <= 38 milliseconds
+97.29% <= 39 milliseconds
+97.50% <= 40 milliseconds
+97.69% <= 41 milliseconds
+97.79% <= 42 milliseconds
+97.89% <= 43 milliseconds
+97.97% <= 44 milliseconds
+98.11% <= 45 milliseconds
+98.15% <= 46 milliseconds
+98.28% <= 47 milliseconds
+98.37% <= 48 milliseconds
+98.52% <= 49 milliseconds
+98.56% <= 50 milliseconds
+98.58% <= 51 milliseconds
+98.65% <= 52 milliseconds
+98.70% <= 53 milliseconds
+98.76% <= 54 milliseconds
+98.78% <= 55 milliseconds
+98.80% <= 56 milliseconds
+98.85% <= 57 milliseconds
+98.90% <= 58 milliseconds
+98.98% <= 59 milliseconds
+99.02% <= 60 milliseconds
+99.10% <= 61 milliseconds
+99.13% <= 62 milliseconds
+99.17% <= 63 milliseconds
+99.19% <= 64 milliseconds
+99.20% <= 65 milliseconds
+99.21% <= 66 milliseconds
+99.23% <= 67 milliseconds
+99.25% <= 68 milliseconds
+99.28% <= 69 milliseconds
+99.31% <= 70 milliseconds
+99.35% <= 71 milliseconds
+99.39% <= 72 milliseconds
+99.42% <= 73 milliseconds
+99.43% <= 74 milliseconds
+99.43% <= 75 milliseconds
+99.45% <= 76 milliseconds
+99.46% <= 77 milliseconds
+99.48% <= 78 milliseconds
+99.50% <= 79 milliseconds
+99.51% <= 80 milliseconds
+99.53% <= 81 milliseconds
+99.53% <= 82 milliseconds
+99.54% <= 83 milliseconds
+99.54% <= 84 milliseconds
+99.56% <= 85 milliseconds
+99.57% <= 86 milliseconds
+99.59% <= 87 milliseconds
+99.61% <= 88 milliseconds
+99.62% <= 89 milliseconds
+99.63% <= 90 milliseconds
+99.63% <= 91 milliseconds
+99.65% <= 92 milliseconds
+99.66% <= 93 milliseconds
+99.66% <= 94 milliseconds
+99.68% <= 95 milliseconds
+99.69% <= 96 milliseconds
+99.69% <= 97 milliseconds
+99.70% <= 98 milliseconds
+99.71% <= 99 milliseconds
+99.72% <= 100 milliseconds
+99.72% <= 101 milliseconds
+99.74% <= 102 milliseconds
+99.76% <= 103 milliseconds
+99.77% <= 104 milliseconds
+99.77% <= 105 milliseconds
+99.78% <= 106 milliseconds
+99.78% <= 107 milliseconds
+99.79% <= 108 milliseconds
+99.79% <= 109 milliseconds
+99.80% <= 110 milliseconds
+99.80% <= 111 milliseconds
+99.81% <= 112 milliseconds
+99.82% <= 115 milliseconds
+99.82% <= 116 milliseconds
+99.83% <= 117 milliseconds
+99.83% <= 119 milliseconds
+99.84% <= 120 milliseconds
+99.84% <= 121 milliseconds
+99.85% <= 122 milliseconds
+99.85% <= 123 milliseconds
+99.85% <= 124 milliseconds
+99.85% <= 125 milliseconds
+99.86% <= 133 milliseconds
+99.86% <= 134 milliseconds
+99.86% <= 136 milliseconds
+99.86% <= 137 milliseconds
+99.87% <= 139 milliseconds
+99.88% <= 140 milliseconds
+99.88% <= 144 milliseconds
+99.88% <= 145 milliseconds
+99.89% <= 156 milliseconds
+99.89% <= 158 milliseconds
+99.89% <= 159 milliseconds
+99.89% <= 160 milliseconds
+99.90% <= 162 milliseconds
+99.91% <= 163 milliseconds
+99.94% <= 172 milliseconds
+99.95% <= 192 milliseconds
+99.95% <= 203 milliseconds
+99.95% <= 205 milliseconds
+99.95% <= 206 milliseconds
+99.95% <= 212 milliseconds
+99.95% <= 213 milliseconds
+99.96% <= 214 milliseconds
+99.96% <= 220 milliseconds
+99.96% <= 279 milliseconds
+99.96% <= 315 milliseconds
+99.96% <= 322 milliseconds
+99.97% <= 327 milliseconds
+99.97% <= 333 milliseconds
+99.97% <= 353 milliseconds
+99.97% <= 373 milliseconds
+99.97% <= 476 milliseconds
+99.98% <= 481 milliseconds
+99.98% <= 482 milliseconds
+99.98% <= 487 milliseconds
+99.98% <= 489 milliseconds
+99.99% <= 493 milliseconds
+100.00% <= 498 milliseconds
+100.00% <= 498 milliseconds
+4390.78 requests per second
+
+
